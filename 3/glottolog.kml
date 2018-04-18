@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://earth.google.com/kml/2.0"> <Document>
+
+<Style id="blue with label">
+
+ <IconStyle> 
+ <color>ffF00A14</color>
+ <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>1</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="blue without label">
+
+ <IconStyle> 
+ <color>ffF00A14</color>
+ <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>0.01</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="red with label">
+
+ <IconStyle> 
+ <color>ff1408FF</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>1</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="red without label">
+
+ <IconStyle> 
+ <color>ff1408FF</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>0.01</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="purple with label">
+
+ <IconStyle> 
+ <color>ffF078B4</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>1</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="purple without label">
+
+ <IconStyle> 
+ <color>ffF078B4</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>0.01</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="cyan with label">
+
+ <IconStyle> 
+ <color>ffF0F014</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>1</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="cyan without label">
+
+ <IconStyle> 
+ <color>ffF0F014</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>0.01</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="yellow with label">
+
+ <IconStyle> 
+ <color>ff14F0DC</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>1</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="yellow without label">
+
+ <IconStyle> 
+ <color>ff14F0DC</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>0.011</scale>
+    </LabelStyle>
+</Style> 
+<Placemark>
+ <name>Hu</name> 
+ <description></description>
+ <styleUrl> purple with label</styleUrl> 
+ <Point>
+  <coordinates>
+   100.92, 22.18, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Blang</name> 
+ <description></description>
+ <styleUrl> red with label</styleUrl> 
+ <Point>
+  <coordinates>
+   100.42, 21.58, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Blang</name> 
+ <description></description>
+ <styleUrl> red with label</styleUrl> 
+ <Point>
+  <coordinates>
+   100.12, 21.92, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Blang</name> 
+ <description></description>
+ <styleUrl> red with label</styleUrl> 
+ <Point>
+  <coordinates>
+   100.06, 21.85, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Awa</name> 
+ <description></description>
+ <styleUrl> blue with label</styleUrl> 
+ <Point>
+  <coordinates>
+   100.0, 22.18, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Awa</name> 
+ <description></description>
+ <styleUrl> blue with label</styleUrl> 
+ <Point>
+  <coordinates>
+   100.33, 22.32, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Awa</name> 
+ <description></description>
+ <styleUrl> blue with label</styleUrl> 
+ <Point>
+  <coordinates>
+   99.94, 22.66, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Awa</name> 
+ <description></description>
+ <styleUrl> blue with label</styleUrl> 
+ <Point>
+  <coordinates>
+   99.58, 22.33, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Awa</name> 
+ <description></description>
+ <styleUrl> blue with label</styleUrl> 
+ <Point>
+  <coordinates>
+   99.32, 22.3, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Awa</name> 
+ <description></description>
+ <styleUrl> blue with label</styleUrl> 
+ <Point>
+  <coordinates>
+   99.59, 22.65, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Nuclear Wa</name> 
+ <description></description>
+ <styleUrl> cyan with label</styleUrl> 
+ <Point>
+  <coordinates>
+   99.17, 23.28, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>U</name> 
+ <description></description>
+ <styleUrl> yellow with label</styleUrl> 
+ <Point>
+  <coordinates>
+   99.81, 23.56, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Nuclear Wa</name> 
+ <description></description>
+ <styleUrl> cyan with label</styleUrl> 
+ <Point>
+  <coordinates>
+   99.82, 23.57, 0.
+  </coordinates>
+ </Point> 
+</Placemark><Placemark>
+ <name>Nuclear Wa</name> 
+ <description></description>
+ <styleUrl> cyan with label</styleUrl> 
+ <Point>
+  <coordinates>
+   99.62, 25.09, 0.
+  </coordinates>
+ </Point> 
+</Placemark></Document> </kml>

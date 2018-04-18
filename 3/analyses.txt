@@ -1,0 +1,935 @@
+<sun>
+Ximeng	ŋi	1
+Bangxie	ŋʌi sŋi	2
+Wengwa	ŋʌi	1
+Mangjing	ŋi	1
+Manghong	hŋi	1
+Wengding	sŋʌi	1
+Menglian	ŋgi	1
+Gongxin	sŋi	1
+Zhanglang	ŋʌi sŋi	2
+Bada	ŋʌi sŋi	2
+Bulangshan	ŋʌi sŋi	2
+Xiaomenge	sŋʌi	1
+Kunge	ŋʌi ŋi	2
+</sun>
+
+<eat rice>
+Ximeng	sɔm ə	2
+Bangxie	ɔ nʌ kʰʌi	1
+Wengwa	ə ʃɔm ə	3
+Mangjing	ə tsɔm	1
+Manghong	ə tsɔm	1
+Wengding	sɔm ə	2
+Menglian	sʌm ə	2
+Gongxin	sɔm ə	2
+Zhanglang	ɔ sɔm	1
+Bada	ə sɔm	1
+Xiaomenge	ə sɔm	1
+Desili	ə nʌ kʰʌi	1
+Kunge	ɔ kʰʌi əp	1
+Bulangshan	ət sɔm	1
+</eat rice>
+
+<glottolog>
+Ximeng	Awa	1
+Bangxie	U	2
+Wengwa	Awa	1
+Mangjing	Awa	1
+Manghong	Awa	1
+Wengding	Nuclear Wa	3
+Menglian	Awa	1
+Gongxin	Awa	1
+Zhanglang	Blang	4
+Bada	Blang	4
+Xiaomenge	Nuclear Wa	3
+Desili	Nuclear Wa	3
+Kunge	Hu	5
+Bulangshan	Blang	4
+</glottolog>
+
+<demonstratives>
+Ximeng	in/ɔn gʌ pʰui	1
+Bangxie	ui ni/nɛ	2
+Wengwa	ɛn/ʌ bui	1
+Manghong	bui i/dɛ	2
+Wengding	bui in/ɔn	2
+Menglian	in/ɔn gʌ pʰui	1	
+Gongxin	in/ɔn gʌ pʰui	1
+Zhanglang	ɛn/ɔn i	1
+Bada	bui ɛnsʌ/ɔnsʌ	2
+Kunge	i ɛ/ɾɛ	2
+</demonstratives>
+
+<classifiers>
+Ximeng	12	1
+Bangxie	15	2
+Menglian	10	1
+Xiaomenge	22	2
+Mangjing	10	1
+Zhanglang	24	2
+Wengwa	12	1
+</classifiers>
+
+Ximeng
+
+(informant 1)
+I eat fruit	pʰɾʌ ə bɾikʰθ (286:0:46)
+I eat rice  sɔm ə (286:1:54)
+eat soup həp dɔ (286:1:55), rəp dɔ (286:2:44)
+I eat beef pʰɾʌ ə nɛ mui (286:2:02)
+drink water niə rum (286:2:23)
+drink alcohol niə blʌi (286:2:23)
+eat congee pʰɾʌ glɘm (286:2:41)
+this person in gʌ pʰui (289:0:10)
+that person ɔn gʌ pʰui (289:0:10)
+four people bui bɔn gə (289:0:46)
+
+(informant 2)
+I eat rice ə sɔm əp (30:0:15)
+eat beef pʰɾʌ nɛ mui (30:1:42)
+eat vegetables pʰɾʌ də (30:1:47)
+eat fruit - ? (30:2:01)
+eat banana pʰɾʌ mɔ (30:1:53)
+eat congee i gləm (30:2:04)
+drink alcohol niə blʌi (30:2:10)
+drink water niə rum (30:2:10)
+drink tea niə lʌ (30:2:10)
+eat soup niə rum də (30:2:20)
+sun ŋi (30:1:05)
+this person i gʌ pʰui (30:1:28)
+that person ɔn gʌ pʰui (30:1:29)
+classifiers: 30:2:26
+
+Dabangxie
+I eat rice ɔ nʌ kʰʌi (37:0:16)
+I eat beef ɔ nʌ nɛh mui (37:0:31)
+I eat vegetables ɔ nʌ tʰu (37:0:37)
+I eat banana ɔ nʌ dɔ (37:0:41)
+I eat congee ɔ nʌ kʰʌi bə (37:0:48)
+I drink alcohol o nʌ pʰlθ (37:0:53)
+I drink tea o nʌ lʌ (37:1:03)
+drink water nʌ om (37:1:10)
+drink soup nʌ om tʰu (37:1:14)
+sun ŋʌi sŋi (37:1:21)
+rainbow pʰiɔŋ (37:1:33)
+this person ui ni (37:1:40)
+that person ui ne (37:1:40)
+classifiers: 37:2:00
+a dog so mu do (37:2:00), showing that mu is the word for one, seems to become mə with a classiier, and then amu if the classfier is itself mu
+numbers (37:2:25)
+
+Wengji
+Does not use classifiers: 1
+I eat rice ə ʃɔm ə (350:0:10)
+I eat beef ə brʌ ə nɛ mui (350:3:05)
+I eat vegetables ə brʌ ə dʌi (350:3:20)
+I eat banana ə brʌ ə ʌmo (350:3:36)
+I drink water ə niʌ ə rɔm (350:3:57)
+I drink alcohol ə niʌ blʌi (350:4:05)
+I drink tea ə niʌ lʌ (350:4:33)
+this person ɛn bui (350:12:53)
+that person ʌ bui (350:12:55)
+sun ŋʌi (?)
+I still need congee and soup
+
+Mangjing
+I eat rice ə tsɔm (11:0:20)
+you eat rice mɛ tsɔm mɛ (11:0:27)
+sun hŋi (11:0:37)
+this person, that person - ? (11:1:20)
+I eat beef ə brʌ nɛ mui (11:1:27)
+I eat vegetables ə brʌ də (11:1:40)
+I eat fruit ə brʌ bri (11:1:51)
+I eat congee niə ... (11:1:58)
+I drink alcohol ə niə blʌi (11:2:02)
+I drink tea ə niə lʌ (11:2:05)
+I drink water ə niə rɔm (11:2:08)
+drink soup niə rɔm də (11:2:11)
+classifiers: 11:2:17
+
+Manghong
+I eat rice ə tsɔm (13:0:14)
+you eat rice mi tsɔm (13:0:17)
+sun ŋi (13:0:35)
+this person bui i (13:1:00)
+that person bui dɛ (13:1:00)
+eat beef brʌ nɛ mui (13:1:05)
+eat vegetables brʌ dɔ (13:1:16)
+eat fruit brʌ bri (13:1:22)
+eat congee rəp glɔm (13:1:36), when prompted by Yuni
+drink alcohol niə blʌi (13:1:44)
+drink tea niə lʌ (13:1:46)
+drink water niə rɔm (13:1:49)
+drink soup niə rɔm də (13:1:54)
+classifiers 13:3:25
+
+Cangyuan (Sigangli, Wengding)
+I eat rice sɔm ə (542:1:07) (she first gives ə sɔm for emphasis)
+you eat rice sɔm mɛ (542:0:17)
+drink water niə rɔm (542:02:28)
+drink alcohol niə blʌi (542:2:33)
+eat congee i mɔt (/glɔm) (542:3:10)
+you eat beef i mʌi nɛ mui (542:3:24)
+eat vegetables i dau (542:3:35)
+drink tea niə tsʌ (542:3:44)
+four people bɔn gʌ (542:5:05)
+four dogs sɔ bɔn mu (542:5:12)
+this person bui in (542:6:08)
+that perosn bui ɔn (542:6:08)
+sun sŋʌi (544:2:47)
+eat soup was not elicited
+classifiers not elicited
+
+Menglian
+(informant 1)
+I eat rice sʌm ə (535:3:05)
+I drink alcohol nzə ə blʌi (535:3:14)
+I drink water nzə ə ɾum (535:3:20)
+I eat fruit pʰɾʌ ə blikɔ (535:3:27)
+I eat beef pʰɾʌ ə ndɛ mbui (535:4:06)
+I eat congee hrəp ə da glɯm (535:4:17)
+four people bɛ bun ga (535:4:50)
+four dogs sɔ bun bɔ (535:5:10)
+that person ga pʰui ɔn na (536:1:56)
+this person ga pʰui iɛ na (536:2:02)
+sun ŋgi (536:14:17)
+
+(informant 2)
+I eat rice sɔm ə (25:0:12)
+you eat rice sɔm mɛ (25:0:14)
+sun ŋgi (25:0:22)
+this person in gʌ pʰui (25:0:57)
+that person ɔn gʌ pʰui (25:0:59)
+eat beef pʰɾʌ nɛ mui (25:1:04)
+eat vegetables pʰrʌ də (25:1:10)
+eat fruit pʰrʌ ʃʷɛ gʷo (25:1:13)
+eat congee sɔm də glɯm (25:1:22)
+drink alcohol nzə blʌi (25:1:25)
+drink water nzə ɾum (25:1:31)
+drink tea nzə lʌ (25:1:35)
+eat soup nzə ɾum də (25:1:37)
+classifiers 25:1:41
+
+(informant 3)
+I eat rice sɔm ə (28:0:08)
+you eat rice sɔm mɛ (28:0:12)
+sun hŋi (28:0:24)
+this person gə pʰui ɔn (28:0:33)
+that person ɔn gə pʰui (28:0:38)
+eat beef pʰɾʌ nɛ mui (28:0:52)
+eat vegetables ɾəp də (28:0:57)
+eat fruit pʰɾʌ pʰɾikə (28:1:21)
+eat congee ɾəp glɯm (28:1:32)
+drink alcohol niə blʌi (28:1:34)
+drink tea niə lʌ (28:1:36)
+drink water niə ɾum (28:1:38)
+eat soup kʰɾət ɾum də (28:1:51)
+classifiers: 29
+
+(informant 4)
+drink alcohol nzə ə blʌi (538:2:13)
+I eat rice sʌm ə (538:2:16)
+I drink water nzə ə ɾɔm (538:2:26)
+I eat banana pʰrɔ ə mbo (538:2:48)
+I eat beef pʰrɔ ə dɛ mui/kra (538:3:32)
+eat vegetables hrəp dʌi (538:3:40)
+eat congee  hrəp dʌi glɯm (538:3:49)
+eat noodles hrəp miɛn tʰiʌu (538:6:30)
+four people buɔn gʌi (538:7:58)
+four dogs sʌu buɔn bʌu (538:8:10)
+this person in gʌ pʰui (informant 1 answering) (538:10:20)
+that person ɔn gʌ pʰui (informant 1 answering) (538:10:20)
+sun ŋgi (538:16:40)
+
+Gongxin
+four dogs bun mu sɔ (548:0:05)
+that person ɔn gə pʰui (548:0:29)
+this person in gə pʰui (548:0:35)
+rainbow 548:1
+eat beef pʰɾʌ ndɛ mbui (548:1:49)
+eat vegetables pʰɾʌ də (548:2:05)
+eat congee hrəp glɯm (548:2:12)
+drink tea krət lʌ (548:2:41)
+drink alcohol nzə blʌi (548:2:48)
+drink water nzə rɔm (548:3:47)
+eat fruit pʰɾʌ sʷɛ gʷo (548:4:05)
+I eat rice sɔm ə (547:0:32)
+you eat rice (gave two answers) mɛ sɔm/sɔm mɛ (547:0:50)
+said that *mɛ sɔm mɛ is impossible (547:1:40)
+I do not eat rice ə sə sɔm (547:1:45)
+sun sŋi (547:1:55)
+
+Zhanglang
+(informant 1)
+I eat rice ɔ sɔm (22:0:10)
+you eat rice mɛ sɔm (22:0:18)
+sun ŋʌi sŋi (22:0:29)
+this person ɛn i (22:0:43)
+that person ɔn i (22:0:43)
+this book bʌp ɛn (22:0:51)
+that book bʌp ɔn (22:0:51)
+eat beef bɔn bɔn mui (22:1:25)
+eat vegetables da dɔ (22:1:32)
+eat banana pʰɾʌ ʌmɔ (22:1:42)
+eat congee - did not know
+drink alcohol niθ blʌi (22:2:00)
+drink tea niθ lʌ (22:2:04)
+drink water niθ ɔm (22:2:12)
+drink soup  hrʌp ɔm dɔ (22:2:17)
+a dog so da do (22:2:28)
+classifiers 22:2:28
+
+(informant 2)
+I eat rice ʌ som (23:0:12)
+you eat rice mi som (23:0:30)
+sun ŋʌi sŋi (23:0:46)
+did not get intelligible answers for this person and that person
+classifiers 23:3:06
+
+(informant 3)
+I eat rice ʌ som (330:0:40)
+you eat rice mi som (330:0:40)
+a dog so da do (330:2:19)
+wear a hat t͡ʃop t͡ʃop t͡ʃɛŋ (337:4:59)
+three people uɛ bui (335:0:25)
+
+(informant 4)
+I eat fruit ʌ niə ɔm dia (332:3:25)
+I eat beef ʌ bɔn bɔn mui (332:3:34)
+I eat vegetables da dɔ (341:2:37)
+eat bananas pʰɾʌ gʌmɔ (332:4:03)
+drink water niə ɔm (332:4:29)
+drink water niə blʌi (332:4:30)
+eat soup hrʌp ɔm dø (332:4:39)
+didn't know congee (332:4:49)
+drink tea niə lʌ (332:5:24)
+this person kʰɛn ən (332:7:49)
+that person kʰɔn ən (332:7:49)
+this dog su yʌnʌ (332:8:23)
+that dog su ɔnʌ (332:8:27)
+a dog so da du (332:2:56)
+
+Bada 
+(informant 1)
+I eat rice ə sɔm (345:0:10)
+you eat rice mi sɔm (345:0:25)
+eat vegetables dʏ dʏ (345:0:35)
+eat beef bɔn bɔn amui (345:0:40)
+eat banana muʌn gʌmo (345:1:03)
+drink alcohol niə blʌi (345:2:00)
+eat cake muʌn dʌngʌu (345:1:55)
+eat noodles muʌn gomɛn (345:1:22)
+drink water niə om (346:0:06)
+a person bui dɛ bui (346:1:22)
+this person bui ɛnsʌ (346:3:09)
+that person bui ɔnsʌ (346:3:09)
+these people ɛn d͡ʒisʌ (346:3:15)
+those people ɔn d͡ʒisʌ (346:3:15)
+four dogs so bun du (346:1:41)
+a dog so rə du (346:1:39)
+
+Xiaomenge
+I eat rice ə sɔm (45:0:5)
+you eat rice mɛ sɔm (45:0:10)
+eat beef i nɛ mui (45:0:25)
+eat vegetables i də (45:0:34)
+eat banana i bli mɔ, or it might just be bli mɔ (45:0:44)
+eat congee i mbʌi (45:0:53)
+drink alcohol i blʌi (45:0:57)
+drink tea i t͡ʃʌ (45:0:59)
+drink water i rɔm (45:1:01)
+drink water i rɔm də (45:1:10)
+sun sŋʌi (45:1:15)
+rainbow niə rɔm (45:1:29)
+a dog so dʌ mu (45:1:38)
+classifiers 45:1:38
+
+Fengqing (Desili)
+I eat rice ə nʌ kʰʌi (35:0:10)
+eat beef nʌ nɛ mui (35:2:49)
+eat vegetables nʌ tʰu (35:3:20)
+drink alcohol nʌ mbiʌu (35:4:01)
+drink water nʌ ɔm (35:4:17)
+drink tea nʌ t͡ʃʌ (35:4:28)
+
+Kunge 
+
+eat rice kʰʌi əp, (317:0:09, 317:3:04)
+drink water tʰing ɔm (317:0:11)
+drink alcohol tʰing dɔl (317:0:15)
+I drink water ɔ tʰing ɔm (317:0:18)
+you drink water mə tʰing ɔm (317:0:24)
+I eat fruit ɔ səm kʰʌi plə (317:2:36)
+I eat beef ɔ səm kʰʌi ni tʰiɛ (317:3:09)
+eat soup səm kʰip ɔm tʰu (317:3:24) - səm means 'want', c.f. 321:7:51.
+eat vegetable kʰʌi tʰu (318:4:35)
+drink tea tʰing ɔm niə (322:2:50)
+four dogs apɔn du ʃɔ (317:6:12)
+'mu' is one and other classifier ga is incorporated into numerals, 317:4:49
+this person i ɛ (317:7:49)
+that person i ɾɛ (317:7:49)
+sun ŋʌi ŋi (317:12:00)
+
+Bulangshan
+(informant 1)
+I eat rice sɔm ɔ (325:0:12)
+you eat rice sɔm nʌmiʌng (325:0:16)
+he/she eats rice ɔn sɔm ɔn nʌmiʌng (325:0:25)
+rice sɔm (325:0:44)
+you eat rice (probably translating I eat rice) ət sɔm ui (325:0:53)
+you mit (325:0:57)
+you eat rice mit sɔm miʌmiʌn 325:1:10
+we two eat rice ʌt sɔm ʌi (325:1:20)
+we three eat rice it sɔm i (325:1:25)
+I drink alcohol ət niə blʌi (325:2:09)
+I drink water ət niə um (325:2:13)
+I eat beef ət ɛn bon gʌmui (325:2:22)
+I eat fruit ət ɛn bli (325:2:31)
+eat congee ɛn gləm (325:2:52)
+sun ŋʌi sŋi (325:5:44)
+four people bun pʰui (325:6:05)
+four dogs so bun (325:6:35)
+
+(informant 2)
+drink alcohol ɛn blʌi (327:0:06)
+I eat rice ət sɔm (327:0:20)
+you eat rice mi sɔm (327:0:25)
+this person ən bo (327:3:00), for some reason no that person
+sun ŋʌi sŋi (327:3:30)
+I eat beef ət hi bɔn kʰra (327:6:33)
+I eat pork ət ɛn bɔn li (327:6:49)
+I eat fruit ət ɛn pʰiŋgo (perhaps actually apple) (327:7:10)
+I eat congee ət ɛn kʰobɛ (327:7:21)
+drink water niə ɔm (328:0:56)
+did not get a clear answer for eat soup (328:1:100)
+
+
+--------------
+
+CLASSIFIERS
+
+Ximeng (30)
+
+dog  mu
+cat  mu
+chicken  mu
+pig  mu
+cow  mu
+snake  mu
+fish  mu
+hat  mu
+trousers  blʌ
+shirt  mu
+chopstick pair  mu
+chopstick single  mu
+shoe pair  mu
+shoe single  -
+cushion  mu
+flower  mu
+tree  bʌŋ
+house  blʌŋ/brʌŋ
+table  mu
+chair  mu
+pen  mu
+a spoon  mu
+a noodle  mu
+a leaf  blʌ
+room  mu
+person  mu
+a teacher  gə
+spider mu 
+stone  mu
+boat  mu
+banana  mu
+mugua  mu
+cloud  mu
+hand  blʌ
+finger  mu
+leg  mu
+car  d͡ʒʌŋ
+door  mu
+picture  blʌ
+grain of rice  sop
+tea leaf  blʌ
+cup of tea  bui
+cup of water  bui
+bowl of rice  glom
+bed  mu
+fan  mu
+light (bulb)  mu
+ball  no answer
+elephant  mu
+king no answer
+aeroplane no answer
+tiger no answer
+kettle no answer
+drum mu
+egg mu
+eye  blʌ
+arrow mu
+biscuit  do?/mu
+mushroom  blʌ
+street  mu
+comb mu
+cow no answer
+bull mu
+bamboo gər
+scar də
+child gə
+chilli glu/gru
+sound no answer
+bag blʌ
+toothbrush mu
+ear mu
+paper blʌ
+mirror mu
+book blʌ
+
+Dabangxie
+
+cat do
+dog  do
+cat  do
+chicken  do
+pig  do
+cow  do
+snake  do
+fish  do
+hat  mu
+trousers  pʰø
+shirt  mu
+chopstick pair  gu 
+chopstick single  mu
+shoe pair  gu
+shoe single  kʰɔn
+cushion  mu
+flower  mu
+tree  mu
+house  glʌŋ
+table  mu
+chair  ŋən
+pen  sɪ
+a spoon  mu
+a noodle mu
+a leaf  lɛ
+room  mu
+person  mu (later gave i when I asked about it)
+a teacher  i
+spider  mu
+stone  ŋən
+boat  mu
+banana ngən
+mugua  ngən
+cloud  mu
+hand  kʰɔn
+finger  mu
+leg mu
+car  glʌŋ
+door mu
+picture mu
+grain of rice ngən
+tea leaf lɛ 
+cup of tea d͡ʒɔŋ
+cup of water d͡ʒɔŋ
+bowl of rice flɛ
+bed mu
+fan mu
+light (bulb) ŋən
+ball mu
+elephant do
+aeroplane glʌŋ
+king i
+tiger mu
+kettle mu
+drum mu
+egg ŋən
+eye ŋən
+arrow mu
+biscuit lɛ
+mushroom blʌ
+street mu
+comb mu
+cow do
+bull do
+bamboo mu
+scar no answer
+child mu
+chilli ŋən
+sound mu
+bag ŋən
+toothbrush blʌ
+ear mu 
+paper lɛ
+mirror ŋən
+book bən
+
+Mangjing
+dog  do
+cat  do
+chicken  do
+pig  do
+cow  do
+snake  do
+fish  do
+hat  answered but did not use a classifier
+trousers  pʰə
+shirt  pʰə
+chopstick pair  ga
+chopstick single  dɛŋ
+shoe pair  ga
+shoe single  dɛŋ
+cushion  -
+flower  mbrɔk
+tree  -
+house  -
+table  -
+chair  -
+pen  - but also seems to say ŋɔ but is unsure
+a spoon -
+a noodle rɔm and gives order dɛ rɔm miɛntʰiʌu
+a leaf brʌ
+room -
+person -
+a teacher -
+spider -
+stone -
+boat -
+banana -
+mugua -
+cloud -
+hand dɛŋ
+finger - 
+leg - but then says dɛŋ
+car -
+door -
+picture -
+grain of rice mu (after discussing with some other people)
+tea leaf glɔm (?)
+cup of tea bui, glɔm
+cup of water glɔm
+bowl of rice glɔm
+bed -
+fan -
+light (bulb) -
+ball -
+elephant do (when I said it)
+king (cannot hear)
+aeroplane (cannot hear)
+tiger -
+kettle ?
+drum ?
+egg -
+eye -
+arrow -
+biscuit -
+mushroom -
+street -
+comb -
+cow ?
+bull ?
+bamboo rɔm
+scar ?
+child -
+chilli ?
+
+
+Manghong
+
+dog  do
+cat  do
+chicken   do
+pig   do
+cow   do
+snake   do
+fish  do
+hat   -
+then stopped because I thought there would not be any more classifiers
+
+Wengwa/Wengji
+(Yuni did not use classifiers apart from gu for pair of chopsticks and related measure words, 1)
+dog  do  - order is dɛ do so, then corrected to so dɛ do
+cat  do
+chicken   do
+pig   do
+cow   do
+snake   do
+fish  do
+hat   mu
+trousers  pʰy
+shirt   pʰy
+chopstick pair  gu
+chopstick single   dɛŋ
+shoe pair   gu
+shoe single  dɛŋ
+cushion   mu
+flower   (m)blɔk
+tree   [different]
+house   lʌŋ
+table  -
+chair  -
+pen  -
+a spoon   -
+a noodle   -
+a leaf   blʌ, might be grʌ
+room   hɔŋ
+person   gə
+a teacher   -
+spider  do (when prompted)
+stone   mu
+boat  -
+banana   mu
+mugua   mu
+cloud   -
+[some cut out due to bad recording]
+bed  -
+fan   -
+light (bulb) mu  
+ball mu
+elephant do
+[bad recording]
+kettle ɔ (unusual)
+drum ?
+egg mu (when prompted)
+eye sounds like ŋə, could be mu
+arrow ?
+biscuit ?
+mushroom (m)blɔk
+street mu
+
+Menglian
+
+dog  mu
+cat  mu
+chicken  mu
+pig  mu
+cow  mu
+snake  mu
+fish  mu
+hat  mu
+trousers  blʌ
+shirt  blʌ
+chopstick pair  dui
+chopstick single  mu
+shoe pair  dui
+shoe single  mu
+cushion  mu
+flower  mu
+tree  mu
+house  ?
+table  ?
+chair  ?
+pen  mu
+a spoon  mu
+a noodle  gɔŋ
+a leaf  blʌ
+room  brʌ
+person  gə
+a teacher  gə
+spider  mu
+stone  mu
+boat  ?
+banana mu
+mugua  mu
+cloud  ?
+hand  mu
+finger  mu
+leg  mu
+car  d͡zʌŋ
+door  mu
+picture  ?
+grain of rice  ?
+tea leaf  bla
+cup of tea  bui
+cup of water bui
+bowl of rice glom
+bed  mu
+fan mu
+light (bulb) mu
+ball mu
+elephant mu
+king  gə
+aeroplane mu
+tiger mu 
+kettle mu
+drum mu
+egg mu
+eye  mu
+arrow  mu
+biscuit mu
+mushroom  mu
+street  mu
+comb mu
+cow mu
+bull mu
+bamboo ?
+scar ?
+child mu
+chilli mu
+sound mu
+bag mu
+toothbrush mu
+ear ?
+paper blʌ, corrected to d͡zʌŋ
+mirror mu
+book blʌ
+
+Xiaomenge Wa
+
+dog  mu
+cat  mu
+chicken  mu
+pig  mu
+cow  mu
+snake  mu
+fish  mu
+hat  lu
+trousers  pʰy
+shirt pʰy
+chopstick pair  ku
+chopstick single kʰɔn
+shoe pair  ku
+shoe single kʰɔn
+cushion  mu
+flower  sklum
+tree  lɛŋ
+house  mu/lʌŋ
+table  luk
+chair  mu
+pen  lɛŋ
+a spoon  mʌ
+a noodle  gɔŋ
+a leaf  blʌ
+room  gə
+person  gə
+a teacher gə
+spider  mu
+stone  lu
+boat  mu
+banana  mu
+mugua  mu
+cloud  glɔn
+hand  kʰɔn
+finger  ?
+leg  forgot to ask
+car lʌŋ
+door  bʌ
+picture  (I think he misheard it as flower) ba or sklum
+grain of rice  mu
+tea leaf  blʌ
+cup of tea  d͡zu
+cup of water  d͡zu
+bowl of rice  glɔm
+bed  mu
+fan mu
+light (bulb) mu
+ball mu 
+elephant mu
+king
+aeroplane  lʌŋ (when prompted)
+tiger
+kettle mu
+drum lu
+egg mu
+eye  kʰɔn
+arrow mʌ
+biscuit mu
+mushroom blʌ
+street si
+comb di (it sounds like)
+cow mu
+bull ?
+bamboo gɔn
+scar ?
+child gə
+chilli mu
+sound ?
+bag lu
+toothbrush mu
+ear blʌ
+paper blʌ
+mirror ?
+book bu
+
+Zhanglang 
+(informant 1, informant 2)
+classifiers 22:2:28
+dog	du 
+cat	du
+chicken	du
+pig	du
+cow	du
+snake	du
+fish	du
+hat	wʌ / sin
+trousers	pʰɔn
+shirt	pɔn
+chopstick pair	?
+chopstick single ?
+shoe pair ?
+shoe single	kot
+cushion	mua
+flower	mɔk
+tree	diu
+house	rang
+table	moa
+chair	moa
+pen	re
+a spoon	ga
+a noodle	de
+a leaf	hra
+room	nha
+person	bui
+a teacher	bui
+spider	du
+stone	moa
+boat	hra
+banana	moa
+mugua	moa
+cloud	nok
+hand	kuan
+finger	de
+leg	de
+car	hrang
+door	de
+picture	de
+grain of rice	men
+tea leaf	?
+cup of tea	gom
+cup of water	kuot
+bowl of rice	jum
+bed	?
+fan	de
+light (bulb)	moa
+ball	?
+elephant	?
+king	bui
+aeroplane	hrang
+tiger	du
+kettle	?		
+drum	moa
+egg	moa
+eye	moa
+arrow	tit
+biscuit	de
+mushroom	hra
+street	se
+comb	de
+cow	du
+bull	du
+bamboo	moa
+scar	?
+child	bui
+chilli	moa
+sound	?
+bag	moa
+toothbrush	de
+ear	de
+paper	hra
+mirror	moa
+book	moa
+
+
+
+
+
