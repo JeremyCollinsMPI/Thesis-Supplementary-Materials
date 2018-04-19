@@ -1,0 +1,93 @@
+Phoenician
+KT760574	2600-2500
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155046
+2500-2600 years BP
+
+New Zealand
+JX893364	715-700
+JX893365	715-700
+JX893366	715-700
+JX893367	715-700
+http://www.pnas.org/content/109/45/18350
+All samples from 1285-1300 AD
+
+South Africa
+KJ669158	2330
+https://academic.oup.com/gbe/article/6/10/2647/609100/First-Ancient-Mitochondrial-Human-Genome-from-a
+2330 years BP
+
+
+Northwest America/Canada
+KC998701-KC998707
+Not in my data
+
+
+Various ancient genomes copied from Rieux et al. 2014:
+
+Tianyuan
+KC417443	39464 +/- 639
+
+
+Konstenki 14
+FN600416.1	37985 +/- 665
+
+
+DolniVestonice13
+KC521459	31155 +/- 85
+
+DolniVestonice14
+KC521458	31155 +/- 85
+
+Oberkassel998
+KC521457	14020 +/- 150
+
+Clovis
+SRX381032	12631 +/- 76
+
+Bla20
+KF523407.1	8652 +/- 58
+
+BS11
+KC521454	8180 +/- 140
+
+KC521455	8054 +/- 127
+
+JX186998.1	7827 +/- 75.5
+
+KC998701.1	6075 +/- 185
+
+KC998702.1	5675 +/- 195
+
+EU810403.1	5228 +/- 83.5
+
+KC998705.1	4855 +/- 275
+
+KF523404.1	3922 +/- 60
+
+EU725621.2	3834 +/- 483
+
+KF523402.1	3666 +/- 20
+
+KF523406.1	3604 +/- 49
+
+KF523405.1	3513 +/- 102
+
+KF523403.1	3418 +/- 63
+
+KC998703.1	2535 +/- 235
+
+FM865411.1	64500 +/- 5200
+
+FM865409.1	43936 +/- 1457.5
+
+FM865407.1	43881 +/- 498.5
+
+FM865408.1	43457 +/- 536.5
+
+NC_011137.1	42826 +/- 1680
+
+
+ 
+ 
+
+

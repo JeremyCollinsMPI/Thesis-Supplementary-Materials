@@ -1,0 +1,2343 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://earth.google.com/kml/2.0"> <Document>
+
+<Style id="blue with label">
+
+ <IconStyle> 
+ <color>ffF00A14</color>
+ <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>1</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="blue">
+
+ <IconStyle> 
+ <color>ffF00A14</color>
+ <scale>2</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+</Style> 
+
+<Style id="red with label">
+
+ <IconStyle> 
+ <color>ff1408FF</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>1</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="red">
+
+ <IconStyle> 
+ <color>ff1408FF</color>
+  <scale>2</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+</Style> 
+
+<Style id="purple with label">
+
+ <IconStyle> 
+ <color>ffF078B4</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>1</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="purple without label">
+
+ <IconStyle> 
+ <color>ffF078B4</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>0.01</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="cyan with label">
+
+ <IconStyle> 
+ <color>ffF0F014</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>1</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="cyan without label">
+
+ <IconStyle> 
+ <color>ffF0F014</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+</Style> 
+
+<Style id="yellow with label">
+
+ <IconStyle> 
+ <color>ff14F0DC</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>1</scale>
+    </LabelStyle>
+</Style> 
+
+<Style id="yellow without label">
+
+ <IconStyle> 
+ <color>ff14F0DC</color>
+  <scale>1</scale>
+ <Icon> <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href> </Icon></IconStyle>
+ <LabelStyle>
+      <scale>0.011</scale>
+    </LabelStyle>
+</Style> <Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>20,40.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>45,40,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>24.1,56.8,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>23.9,54.9,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-3.5,48,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-4.5,50.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-5,57,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-7,53,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-4,52.3,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>10,56,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>6,52.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>0,52,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-7,62.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>9,54.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>10,50,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>8,61,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>15,60,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>23,38,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>93,26.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>90,22.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>85.3,26.8,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>74,36.167,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>72,23,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>80,27,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>76,34,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>80,30,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>86,26.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>77.03,25.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>82,28.72,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>85,21,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>75,31,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>21,45,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>74,36,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>81,7,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>72,34.25,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>71.5,30.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>62,28,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>49,37.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>44,36,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>42,38,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>44,42.24,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>65,35,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>54,32,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>70,38.667,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>48.85,39,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>49.67,36,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>72,36.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>2.3,41.4,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>3,48,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>12.7,42,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-8,39,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>27,45,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>9.4,46.8,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>9,40,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-4,40,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>27,54,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>25,43,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.5,50,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>22,41.6,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>20,52,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>38,55,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>20,45,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.5,46,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.5,51,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>32,50,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>12.47,41.87,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>45,50,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>18,54,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>69,26,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>31,39,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>85,41,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>27,38,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.68,56,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>80,25,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>85,23,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-4.5,56.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>6,50,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>84.33,28,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>85.5,24.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>73.83,26.57,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>90.5,26.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>88.5,26.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>84.1,27.85,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>86.15,27.25,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>86.7,26.6,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>25,42,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-3,43,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>77,31.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>63.5,27,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>71.75,35.73,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>40,38,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>77,17,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>70.99,35.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>72.59,35.48,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>74,15.25,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>71.75,35.4,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>72.5,36.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>76,33,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>16,41.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14,41.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>4.8,44.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>8.405,46.975,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-3.25,56,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>60,37,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>76.17,31.1,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>69.75,32.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>82.3,28.1,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>20.73,42.43,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>23,42,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>70.75,35.178,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>81.5,27.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>77.455,16.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>72.137,35.358,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>73,22,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>15,55,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>18,44,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>17.3,45.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>71.693,35.375,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>70.026,36.01,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>3.2,51.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-5.8,43.4,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>78.587,30.767,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>71.587,36.713,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-2.15,49.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>69.952,35.524,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-1,41.6,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>73.91,31.73,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>6.15,49.85,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>5.7,50.9,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>11,45.15,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>73,3,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>75.785,23.179,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>70.753,36.018,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>1,45,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>69.644,35.073,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>70.292,34.746,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>19,49,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>70.6,34.6,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>48,36.3,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>69.303,39.19,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>55.145,31.092,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>71.5,38.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>9,49,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>71.338,36.013,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>5,50.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>8,61,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>8.5,54.7,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>7.7,53,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>8.9,54.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>7,50.95,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>19,54.3,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>1,52,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>24,37.7,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>35,42,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>22.756,37.73,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>32.7,34.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>39.75,54.6,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-3.6,37.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>8.3,56.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.5,56,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>40,40,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>30.52,39.79,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>9.5,42.1,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-6,43.33,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.2,38.12,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.5,43,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>28,44,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>25,41,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>0,41.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-2,43,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>78.12,9.91,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>10.39,63.42,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>7.23,60.87,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>16.13,46.66,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-1,41,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>7.44,48.32,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.35,52.16,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>7.62,46.83,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.85,45.17,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.5,45.35,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.76,41.1,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>3.62,49.16,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>0.95,43.02,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>5.32,44.09,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>1.72,45.81,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.075,61.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>27.5,56.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>25,59,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>25,62,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>54.5,59.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>55,65,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>48,57,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>45.5,53,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>28,70,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>92,52,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>76,70,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>93,71,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>82,65,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>19,47,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>65,65,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>62,62,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>53.19,56.83,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>75,61,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>32,63,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>22.5,57.7,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>27,57.8,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>86.5,67.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>72.583,68.806,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>29.65,68.98,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>97.6,51.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>27,68.9,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>35.9,67.67,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>83.667,19,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>78.5,20,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>67,29,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>87.333,25,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>84.6,19,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>81.333,17.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>83.5,20,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>82.667,18.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>79,16,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>76,14,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>76.42,13.08,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>76.5,10,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>78.5,11,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>75.333,12.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>87.35,26.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>76.5,12.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>77.17,11.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>79.799,12.612,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>83,19.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>75.282,12.888,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>76.2,11.784,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>82.5,19.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>83.833,19.833,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>81.05,16.684,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>76.75,11.417,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>108,52,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>124,48,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47,45,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>105,47,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>102,36,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>62,35,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>105,50,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>109,39,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>103.4,35.65,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>102,35.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>55.484,55.624,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>122,45,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>117.25,42.25,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>130,68,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>125,56,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>125,45,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>137,49.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>143.5,49.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>136.25,47.667,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>136.762,49.853,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>139,53,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>140.222,51.878,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>137.5,50.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>114.3,34.8,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.75,40.67,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>48.5,40.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>58,53,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.5,55.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>34.083,45,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>42,44,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>60,43,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>90,53,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>50,35,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>75,42,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>49.5,56,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>35,39,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>58,40,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>95,52,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>80,40,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>66,39,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>130,62,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>70,50,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>24.93,54.63,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>87,51,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>87.7,51.3,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>76.227,38.069,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>78.333,55.333,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>33,35,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>57.332,37.475,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>41,41,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>103,35,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>88,53,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>98,53.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>66.087,40.052,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.75,48,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>100.025,38.988,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.8,42.6,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>44.78,41.72,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>41.151,41.274,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>45.5,42.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>42.72,43.05,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>41.81,42.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.7,42.54,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.17,42.56,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.11,42.63,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.23,42.16,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>45.95,42.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.4,42.15,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.11,42.17,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.86,42.07,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>48.13,41.18,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.78,41.58,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.31,41.61,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.16,41.65,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.47,41.08,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>45.54,43.13,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>44.77,42.97,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.59,41.78,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.59,41.78,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.62,41.86,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.59,41.78,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.59,41.78,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.27,42.79,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.25,42.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.384,42.379,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>45.31,42.05,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.13,42.14,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.22,42.66,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>48.37,41.19,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.06,42.54,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.05,42.53,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.34,42.27,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>45.793,42.274,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.117,42.259,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.34,42.6,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>48.25,41.22,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.67,41.67,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.67,41.67,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.14,42.45,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.07,42.42,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>36,18,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-4,33,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-4,34,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>5,36.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-5,31,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14,13.6,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>12.58,10.33,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.3,10.05,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13,11,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14,10.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>15,11,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>11.83,11,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>36.67,10.83,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>38.3,15.9,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37,12.9,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>15.08,9.83,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>15.58,9.08,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37,9,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.5,2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>45,3,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>31,29,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>36.5,6.17,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>36.5,5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.75,6.6,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.3,5.8,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>38,10,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>30,30,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>54,24,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>44,33,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-7,34,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37,33,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>10,36,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>38,8.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>35.17,31.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>38.5,16.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>38.5,14.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>35,-3.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>8.75,9.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>7,12,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>12,10,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>10,11,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>10.92,12.08,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>11.7,10.67,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>29,29,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>43.75,36.2,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>36.6,6,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47.825,30.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>40.25,15.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>18.33,12.17,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>36.25,7.25,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>15.33,11.33,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.08,6.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>54,12.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>41,12,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>44,33,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>5,36,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>40.967,-1.717,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>36.892,10.851,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>36.651,6.384,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>12.5,9.7,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.745,6.456,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>10.747,11.007,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>12.195,10.611,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.9,5.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>19,14,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>36.238,6.617,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.8,10.1,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>40.483,-2.217,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>18.25,12.15,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>36.05,4.802,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>35.19,11.008,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.238,5.431,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>38.196,6.158,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>39,14,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.81,11.106,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>38.243,7.794,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>7.878,8.84,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.85,7.55,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.321,10.569,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.517,7.85,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.902,7.242,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.267,10.267,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>38.29,-4.697,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>35.505,7.633,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>38.114,8.203,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>15.511,9.63,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>58.556,23.589,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>35.6,31.769,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>46.732,24.668,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>38.409,6.748,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>5.522,22.789,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>17.367,9.363,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>37.01,0.475,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>47,14,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.58,10.42,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.86,10.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14,10.7,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.72,11.87,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.83,11.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.2,10.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.3,10.75,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.25,10.8,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>14.4,35.5,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>32.75,25,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>30,18,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>13.25,32,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>36.545,33.845,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-5,33,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>2.4,36.6,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>52,16,0	</coordinates>
+	</Point>
+</Placemark><Placemark>
+	<styleUrl>blue</styleUrl>
+	<Point>
+	<coordinates>-5.37,35.57,0	</coordinates>
+	</Point>
+</Placemark></Document> </kml>

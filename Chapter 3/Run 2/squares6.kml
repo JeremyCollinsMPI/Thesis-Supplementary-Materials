@@ -1,0 +1,1636 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+23,-26	23,-18	31,-18	31,-26	23,-26
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+24,-26	24,-18	32,-18	32,-26	24,-26
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+24,-25	24,-17	32,-17	32,-25	24,-25
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+25,-25	25,-17	33,-17	33,-25	25,-25
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+24,-24	24,-17	31,-17	31,-24	24,-24
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+23,-23	23,-15	31,-15	31,-23	23,-23
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+25,-22	25,-15	32,-15	32,-22	25,-22
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+30,-16	30,-1	45,-1	45,-16	30,-16
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+30,-15	30,0	45,0	45,-15	30,-15
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+14,-13	14,2	29,2	29,-13	14,-13
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+16,-13	16,2	31,2	31,-13	16,-13
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+17,-13	17,1	31,1	31,-13	17,-13
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+18,-13	18,0	31,0	31,-13	18,-13
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+23,-13	23,-1	35,-1	35,-13	23,-13
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+24,-13	24,-2	35,-2	35,-13	24,-13
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+9,-12	9,4	25,4	25,-12	9,-12
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+10,-12	10,4	26,4	26,-12	10,-12
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+11,-12	11,4	27,4	27,-12	11,-12
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+12,-12	12,4	28,4	28,-12	12,-12
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+13,-12	13,4	29,4	29,-12	13,-12
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+14,-12	14,3	29,3	29,-12	14,-12
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+15,-12	15,3	30,3	30,-12	15,-12
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+16,-12	16,2	30,2	30,-12	16,-12
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+17,-12	17,2	31,2	31,-12	17,-12
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+18,-12	18,1	31,1	31,-12	18,-12
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+11,-11	11,4	26,4	26,-11	11,-11
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+12,-11	12,4	27,4	27,-11	12,-11
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+13,-11	13,4	28,4	28,-11	13,-11
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+14,-11	14,4	29,4	29,-11	14,-11
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+17,-11	17,3	31,3	31,-11	17,-11
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+18,-11	18,2	31,2	31,-11	18,-11
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+8,-10	8,6	24,6	24,-10	8,-10
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+11,-10	11,5	26,5	26,-10	11,-10
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+12,-10	12,4	26,4	26,-10	12,-10
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+13,-10	13,4	27,4	27,-10	13,-10
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+14,-10	14,5	29,5	29,-10	14,-10
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+15,-10	15,5	30,5	30,-10	15,-10
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+16,-10	16,5	31,5	31,-10	16,-10
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+17,-10	17,4	31,4	31,-10	17,-10
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+18,-10	18,4	32,4	32,-10	18,-10
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+5,-9	5,8	22,8	22,-9	5,-9
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+8,-9	8,7	24,7	24,-9	8,-9
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+9,-9	9,6	24,6	24,-9	9,-9
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+11,-9	11,6	26,6	26,-9	11,-9
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+12,-9	12,5	26,5	26,-9	12,-9
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+13,-9	13,5	27,5	27,-9	13,-9
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+16,-9	16,6	31,6	31,-9	16,-9
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+17,-9	17,5	31,5	31,-9	17,-9
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+18,-9	18,5	32,5	32,-9	18,-9
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+6,-8	6,8	22,8	22,-8	6,-8
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+8,-8	8,8	24,8	24,-8	8,-8
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+9,-8	9,7	24,7	24,-8	9,-8
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+10,-8	10,6	24,6	24,-8	10,-8
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+11,-8	11,6	25,6	25,-8	11,-8
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+12,-8	12,6	26,6	26,-8	12,-8
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+13,-8	13,5	26,5	26,-8	13,-8
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+16,-8	16,7	31,7	31,-8	16,-8
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+17,-8	17,6	31,6	31,-8	17,-8
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+8,-7	8,9	24,9	24,-7	8,-7
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+9,-7	9,8	24,8	24,-7	9,-7
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+10,-7	10,8	25,8	25,-7	10,-7
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+11,-7	11,8	26,8	26,-7	11,-7
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+12,-7	12,8	27,8	27,-7	12,-7
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+13,-7	13,8	28,8	28,-7	13,-7
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+16,-7	16,8	31,8	31,-7	16,-7
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+17,-7	17,7	31,7	31,-7	17,-7
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+9,-6	9,9	24,9	24,-6	9,-6
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+10,-6	10,9	25,9	25,-6	10,-6
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+11,-6	11,9	26,9	26,-6	11,-6
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+12,-6	12,9	27,9	27,-6	12,-6
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+13,-6	13,9	28,9	28,-6	13,-6
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+16,-6	16,9	31,9	31,-6	16,-6
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+17,-6	17,8	31,8	31,-6	17,-6
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+10,-5	10,9	24,9	24,-5	10,-5
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+11,-5	11,9	25,9	25,-5	11,-5
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+12,-5	12,9	26,9	26,-5	12,-5
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+13,-5	13,9	27,9	27,-5	13,-5
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+17,-5	17,9	31,9	31,-5	17,-5
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+36,8	36,19	47,19	47,8	36,8
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+37,9	37,19	47,19	47,9	37,9
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+28,14	28,25	39,25	39,14	28,14
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+29,14	29,26	41,26	41,14	29,14
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+30,14	30,25	41,25	41,14	30,14
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+34,14	34,26	46,26	46,14	34,14
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+35,14	35,26	47,26	47,14	35,14
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+28,15	28,26	39,26	39,15	28,15
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+29,15	29,26	40,26	40,15	29,15
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+30,15	30,26	41,26	41,15	30,15
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+31,15	31,25	41,25	41,15	31,15
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+33,15	33,26	44,26	44,15	33,15
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+34,15	34,26	45,26	45,15	34,15
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+35,15	35,26	46,26	46,15	35,15
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+36,15	36,26	47,26	47,15	36,15
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+37,15	37,26	48,26	48,15	37,15
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+29,16	29,26	39,26	39,16	29,16
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+30,16	30,26	40,26	40,16	30,16
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+31,16	31,26	41,26	41,16	31,16
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+33,16	33,26	43,26	43,16	33,16
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+35,16	35,26	45,26	45,16	35,16
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+36,16	36,26	46,26	46,16	36,16
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+37,16	37,26	47,26	47,16	37,16
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+30,17	30,26	39,26	39,17	30,17
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+</Document>
+</kml>

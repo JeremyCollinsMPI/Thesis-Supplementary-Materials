@@ -1,0 +1,9 @@
+#NEXUS
+[TBO26oLong]
+BEGIN DATA;
+	DIMENSIONS  NTAX =mouse1 NCHAR=mouse2;
+	FORMAT DATATYPE = DNA GAP = - MISSING = ?;
+	MATRIX	
+mouse3
+;
+END;

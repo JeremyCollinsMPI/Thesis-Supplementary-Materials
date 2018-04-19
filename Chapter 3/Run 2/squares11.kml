@@ -1,0 +1,164 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+17,49	17,60	28,60	28,49	17,49
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+11,51	11,68	28,68	28,51	11,51
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+12,51	12,67	28,67	28,51	12,51
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+13,51	13,67	29,67	29,51	13,51
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+17,51	17,65	31,65	31,51	17,51
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+10,52	10,70	28,70	28,52	10,52
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+13,52	13,70	31,70	31,52	13,52
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+14,52	14,69	31,69	31,52	14,52
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+15,52	15,71	34,71	34,52	15,52
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+    <Placemark>
+        <name>square</name>
+        <Style>
+            <LineStyle>
+                <color>5014F032</color>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <LinearRing>
+        	<altitudeMode>relativeToGround=1000</altitudeMode>
+            <coordinates>
+16,52	16,70	34,70	34,52	16,52
+
+            </coordinates>
+        </LinearRing>
+    </Placemark>
+</Document>
+</kml>
