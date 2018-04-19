@@ -1,0 +1,10 @@
+Chapter[[:space:]]3/Run[[:space:]]2/output.kml filter=lfs diff=lfs merge=lfs -text
+Chapter filter=lfs diff=lfs merge=lfs -text
+3/Data filter=lfs diff=lfs merge=lfs -text
+and filter=lfs diff=lfs merge=lfs -text
+Preprocessing/31485[[:space:]]documents.gb filter=lfs diff=lfs merge=lfs -text
+Chapter[[:space:]]3/Data filter=lfs diff=lfs merge=lfs -text
+Preprocessing/31485[[:space:]]documents.gb filter=lfs diff=lfs merge=lfs -text
+Chapter[[:space:]]3/Data filter=lfs diff=lfs merge=lfs -text
+Preprocessing/31485[[:space:]]documents.gb filter=lfs diff=lfs merge=lfs -text
+Chapter[[:space:]]3/Data[[:space:]]and[[:space:]]Preprocessing/31485[[:space:]]documents.gb filter=lfs diff=lfs merge=lfs -text
