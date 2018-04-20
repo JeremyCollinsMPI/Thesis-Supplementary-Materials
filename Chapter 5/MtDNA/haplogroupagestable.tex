@@ -1,0 +1,29 @@
+\documentclass{article}
+
+\usepackage{longtable}
+\usepackage[margin=0.5in]{geometry}
+
+\begin{document}
+
+
+%\begin{table}[h] 
+%\centering
+\begin{longtable}{| p{.20\textwidth} | p{.15\textwidth} | p{.03\textwidth} | p{.05\textwidth} | p{.05\textwidth} | p{.10\textwidth} | p{.05\textwidth} | p{.03\textwidth} | p{.038\textwidth} | p{.035\textwidth} |p{.05\textwidth} } 
+  \hline
+Population & Language & ISO & Lat & Long & Family & N & H & Onset & Coda \\ 
+  \hline
+Libyan Tuareg & Tamahaq & thv & 22.8 & 5.2 & Afro-Asiatic & 129 & 0.61 & 1 & 1 \\ 
+  Berbers in Morocco & Median of Morocco Berber & shi & 31 & -5 & Afro-Asiatic & 125 & 0.37 & 3 & 3 \\ 
+  Algeria & Median of Algeria Berber & kab & 36.5 & 5 & Afro-Asiatic & 82 & 0.26 & 2 & 2 \\ 
+  Tunisia & Tunisian Arabic & aeb & 36 & 10 & Afro-Asiatic & 83 & 0.27 & 3 & 2 \\ 
+  Berbers in Egypt & Egyptian Arabic & arz & 30 & 30 & Afro-Asiatic & 71 & 0.01 & 1 & 2 \\ 
+  Syrians & Syrian Arabic & apc & 33 & 37 & Afro-Asiatic & 28 & 0.18 & 3 & 2 \\ 
+  Iraq & Arabic & arb & 33 & 44 & Afro-Asiatic & 206 & 0.20 & 1 & 1 \\ 
+   \hline
+\caption{Your caption here} % needs to go inside longtable environment
+\label{tab:myfirstlongtable}
+\end{longtable}
+%\end{table} 
+
+Table \ref{tab:myfirstlongtable} shows my first longtable.
+\end{document}

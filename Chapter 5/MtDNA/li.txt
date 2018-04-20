@@ -1,0 +1,947 @@
+Supplementary Tab.2  HVS-1 motifs and RFLP polymorphisms of the samples.																		
+Sample	Haplogroup	HVS-1 motif(16000+)	10394 DdeI	10397 AluI	5176 AluI	663 HaeIII	4831 HhaI	12406 HpaI	9824 HinfI	9-bp	5417	10310	4715	3010	GenBank Accession Number	Population	Family	Country
+rCRS control			-	-	+	-	-	+	-	2	G	G	A	G	 EF654716			
+AC01	B4a	 129 189 217 261      	-	-	+	-	-	+	-	1		G	A		 EF654717	Ai-Cham	Daic	China
+AC02	M7b1	 189 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF654718	Ai-Cham	Daic	China
+AC06	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF654719	Ai-Cham	Daic	China
+AC07	M7b1	 129 192 223 297 356       	+	+	+	-	-	+	+	2		G	A		 EF654720	Ai-Cham	Daic	China
+AC09	B4a	 153 189 213 217 261 292 362  	-	-	+	-	-	+	-	1		G	A		 EF654721	Ai-Cham	Daic	China
+AC10	M7b	 129 189 223 248 297       	+	+	+	-	-	+	+	2		G	A		 EF654722	Ai-Cham	Daic	China
+BG01	F1a	108 129 162 172 304	-	-	+	-	-	-	-	2		A	A		 EF654723	Bugan	Austro-Asiatic	China
+BG02	M7b	129 189 248 297	+	+	+	-	-	+	+	2		G	A		 EF654724	Bugan	Austro-Asiatic	China
+BG03	M7b	129 189 248 297	+	+	+	-	-	+	+	2		G	A		 EF654725	Bugan	Austro-Asiatic	China
+BG04	D*	92 223 289 362	+	+	-	-	-	+	-	2			A	G	 EF654726	Bugan	Austro-Asiatic	China
+BG05	F3	260 298 355 362	-	-	+	-	-	+	-	2		A	A		 EF654727	Bugan	Austro-Asiatic	China
+BG06	F1a	93 129 162 168 172 304 399	-	-	+	-	-	-	-	2		A	A		 EF654728	Bugan	Austro-Asiatic	China
+BG07	F1a	93 129 162 168 172 304	-	-	+	-	-	-	-	2		A	A		 EF654729	Bugan	Austro-Asiatic	China
+BG08	G*	223 362	+	+	+	-	+	+	-	2			A		 EF654730	Bugan	Austro-Asiatic	China
+BG09	B*	114 129 189	-	-	+	-	-	+	-	1			A		 EF654731	Bugan	Austro-Asiatic	China
+BG10	D*	92 189 223 362	+	+	-	-	-	+	-	2			A	G	 EF654732	Bugan	Austro-Asiatic	China
+BG11	G*	223 362	+	+	+	-	+	+	-	2			A		 EF654733	Bugan	Austro-Asiatic	China
+BG12	F1b	189 232A 249 266 304	-	-	+	-	-	-	-	2		A	A		 EF654734	Bugan	Austro-Asiatic	China
+BG13	F1b	189 232A 249 266 304	-	-	+	-	-	-	-	2		A	A		 EF654735	Bugan	Austro-Asiatic	China
+BG14	F1a	93 129 162 168 172 304 399	-	-	+	-	-	-	-	2		A	A		 EF654736	Bugan	Austro-Asiatic	China
+BG15	B4	108 189 217 362	-	-	+	-	-	+	-	1		G	A		 EF654737	Bugan	Austro-Asiatic	China
+BG16	D*	223 249 362	+	+	-	-	-	+	-	2			A	G	 EF654738	Bugan	Austro-Asiatic	China
+BG17	F1a	93 129 162 168 172 304 399	-	-	+	-	-	-	-	2		A	A		 EF654739	Bugan	Austro-Asiatic	China
+BG18	F1a	93 129 162 168 172 304 399	-	-	+	-	-	-	-	2		A	A		 EF654740	Bugan	Austro-Asiatic	China
+BG19	D*	111 172 189 223 311 362	+	+	-	-	-	+	-	2			A	G	 EF654741	Bugan	Austro-Asiatic	China
+BG20	D*	111 172 189 223 311 362	+	+	-	-	-	+	-	2			A	G	 EF654742	Bugan	Austro-Asiatic	China
+BG21	F1a	108 129 162 172 304	-	-	+	-	-	-	-	2		A	A		 EF654743	Bugan	Austro-Asiatic	China
+BG22	F3	93 124 260 298 355 362	-	-	+	-	-	+	-	2		A	A		 EF654744	Bugan	Austro-Asiatic	China
+BG23	F1a	93 129 162 168 172 304 399	-	-	+	-	-	-	-	2		A	A		 EF654745	Bugan	Austro-Asiatic	China
+BG24	F1b	189 232A 249 266 304	-	-	+	-	-	-	-	2		A	A		 EF654746	Bugan	Austro-Asiatic	China
+BG25	F*	223 304 344 362 381	-	-	+	-	-	+	-	2		A	A		 EF654747	Bugan	Austro-Asiatic	China
+BG26	F3	93 124 260 298 355 362	-	-	+	-	-	+	-	2		A	A		 EF654748	Bugan	Austro-Asiatic	China
+BG27	D5a	93 164 172 189 223 266 362	-	-	-	-	-	+	-	2		G	A	G	 EF654749	Bugan	Austro-Asiatic	China
+BG28	C	223 298 327 354 357	+	+	+	-	-	+	-	2			G		 EF654750	Bugan	Austro-Asiatic	China
+BG29	F3	93 124 260 298 355 362	-	-	+	-	-	+	-	2		A	A		 EF654751	Bugan	Austro-Asiatic	China
+BG30	G*	223 362	+	+	+	-	+	+	-	2			A		 EF654752	Bugan	Austro-Asiatic	China
+BG31	G*	223 362	+	+	+	-	+	+	-	2			A		 EF654753	Bugan	Austro-Asiatic	China
+BG32	F1b	189 232A 249 266 304	-	-	+	-	-	-	-	2		A	A		 EF654754	Bugan	Austro-Asiatic	China
+BN01	B5*	140 182C 183C 189	+	-	+	-	-	+	-	1			A		 EF654755	Bana	Austro-Asiatic	Vietnam
+BN02	R	223 311 362 519	-	-	+	-	-	+	-	2		G	A		 EF654756	Bana	Austro-Asiatic	Vietnam
+BN03	F1a	108 129 162 172 304 519	-	-	+	-	-	-	-	2		A	A		 EF654757	Bana	Austro-Asiatic	Vietnam
+BU01	N*	189 246T	-	-	+	-	-	+	-	2		G	A		 EF654758	Buyang	Daic	China
+BU02	F3	93 249 298 355 362 390	-	-	+	-	-	+	-	2		A	A		 EF654759	Buyang	Daic	China
+BU03	C	93 172 223 298 327	+	+	+	-	-	+	-	2			G		 EF654760	Buyang	Daic	China
+BU04	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF654761	Buyang	Daic	China
+BU05	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF654762	Buyang	Daic	China
+BU06	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF654763	Buyang	Daic	China
+BU07	B4a	129 189 217 261 354	-	-	+	-	-	+	-	1		G	A		 EF654764	Buyang	Daic	China
+BU08	F1a	172 304	-	-	+	-	-	-	-	2		A	A		 EF654765	Buyang	Daic	China
+BU09	B4a	92 189 217 261 299	-	-	+	-	-	+	-	1		G	A		 EF654766	Buyang	Daic	China
+BU10	F1a	108 162 172 304	-	-	+	-	-	-	-	2		A	A		 EF654767	Buyang	Daic	China
+BU11	F1a	172 304	-	-	+	-	-	-	-	2		A	A		 EF654768	Buyang	Daic	China
+BU12	B4b1	136 189 217 309 354	-	-	+	-	-	+	-	1		G	A		 EF654769	Buyang	Daic	China
+BU13	B4b1	136 189 217 309 354	-	-	+	-	-	+	-	1		G	A		 EF654770	Buyang	Daic	China
+BU14	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF654771	Buyang	Daic	China
+BU15	F1a	129 172 304 362	-	-	+	-	-	-	-	2		A	A		 EF654772	Buyang	Daic	China
+BU16	B*	93 189	-	-	+	-	-	+	-	1			A		 EF654773	Buyang	Daic	China
+BU17	F1a	172 304	-	-	+	-	-	-	-	2		A	A		 EF654774	Buyang	Daic	China
+BU18	M7b	223 297	+	+	+	-	-	+	+	2		G	A		 EF654775	Buyang	Daic	China
+BU19	M*	223 234 290 362	+	+	+	-	-	+	-	2		G	A		 EF654776	Buyang	Daic	China
+BU20	C	223 298 327	+	+	+	-	-	+	-	2			G		 EF654777	Buyang	Daic	China
+BU21	F3	93 111 192 249 298 355 362 390	-	-	+	-	-	+	-	2		A	A		 EF654778	Buyang	Daic	China
+BU22	G2a	223 224 227 274 278 362	+	+	+	-	+	+	-	2			A		 EF654779	Buyang	Daic	China
+BU23	M7b	129 189 223 297 358	+	+	+	-	-	+	+	2		G	A		 EF654780	Buyang	Daic	China
+BU24	F1a	172 304	-	-	+	-	-	-	-	2		A	A		 EF654781	Buyang	Daic	China
+BU25	C	129 148 223 298 327	+	+	+	-	-	+	-	2			G		 EF654782	Buyang	Daic	China
+BU26	G2a	223 224 227 274 278 362	+	+	+	-	+	+	-	2			A		 EF654783	Buyang	Daic	China
+BU27	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF654784	Buyang	Daic	China
+BU28	R9b	192 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF654785	Buyang	Daic	China
+BU29	M7b	129 189 223 248 297	+	+	+	-	-	+	+	2		G	A		 EF654786	Buyang	Daic	China
+BU30	F1b	189 304	-	-	+	-	-	-	-	2		A	A		 EF654787	Buyang	Daic	China
+BU32	F3	93 249 298 355 362 390	-	-	+	-	-	+	-	2		A	A		 EF654788	Buyang	Daic	China
+CL01	M*	129 223 311	+	+	+	-	-	+	-	2		G	A		 EF654789	Caolan	Daic	China
+CL02	G*	93 189 223 239 245G 358 362	+	+	+	-	+	+	-	2			A		 EF654790	Caolan	Daic	China
+CL03	M*	129 209 223 272	+	+	+	-	-	+	-	2		G	A		 EF654791	Caolan	Daic	China
+CL04	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF654792	Caolan	Daic	China
+CL05	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF654793	Caolan	Daic	China
+CL06	B5a	140 189 257 266A	+	-	+	-	-	+	-	1		G	A		 EF654794	Caolan	Daic	China
+CL07	N9a	223 257A 261	-	-	+	-	-	+	-	2	A	G	A		 EF654795	Caolan	Daic	China
+CL08	M*	129 223	+	+	+	-	-	+	-	2		G	A		 EF654796	Caolan	Daic	China
+CL09	M7b	223 297	+	+	+	-	-	+	+	2		G	A		 EF654797	Caolan	Daic	China
+CL10	M7c1*	93 189 223 295 362	+	+	+	-	-	+	+	2			A		 EF654798	Caolan	Daic	China
+CL11	N*	129 185 207 399	-	-	+	-	-	+	-	2		G	A		 EF654799	Caolan	Daic	China
+CL12	M7b1	189 192 223 297 390	+	+	+	-	-	+	+	2		G	A		 EF654800	Caolan	Daic	China
+CL13	F2a	92A 291 304	-	-	+	-	-	+	-	2		A	A		 EF654801	Caolan	Daic	China
+CL14	B5	140 189 223 298 311 319 390	+	-	+	-	-	+	-	1			A		 EF654802	Caolan	Daic	China
+CL15	B4a	189 217 261 274	-	-	+	-	-	+	-	1		G	A		 EF654803	Caolan	Daic	China
+CL16	N*	129 220C 223	-	-	+	-	-	+	-	2		G	A		 EF654804	Caolan	Daic	China
+CL17	F1a	129 162 172 189 304 399	-	-	+	-	-	-	-	2		A	A		 EF654805	Caolan	Daic	China
+CL18	N*	189 311	-	-	+	-	-	+	-	2		G	A		 EF654806	Caolan	Daic	China
+CL19	B4b1	136 189 217 218 311	-	-	+	-	-	+	-	1		G	A		 EF654807	Caolan	Daic	China
+CL20	F*	207 243 304	-	-	+	-	-	+	-	2		A	A		 EF654808	Caolan	Daic	China
+CL21	B4a	129 189 217 261	-	-	+	-	-	+	-	1		G	A		 EF654809	Caolan	Daic	China
+CL22	D*	92 223 362	+	+	-	-	-	+	-	2			A	G	 EF654810	Caolan	Daic	China
+CL23	M7b	223 297	+	+	+	-	-	+	+	2		G	A		 EF654811	Caolan	Daic	China
+CL24	F1a	129 172 295 304	-	-	+	-	-	-	-	2		A	A		 EF654812	Caolan	Daic	China
+CL25	D*	92 223 362	+	+	-	-	-	+	-	2			A	G	 EF654813	Caolan	Daic	China
+CL26	M7b1	129 189 192 223 297 390	+	+	+	-	-	+	+	2		G	A		 EF654814	Caolan	Daic	China
+CL27	R9c	157 256 266 304 311 335	-	-	+	-	-	+	-	2		G	A		 EF654815	Caolan	Daic	China
+CL28	B4a	182T 189 217 240 261	-	-	+	-	-	+	-	1		G	A		 EF654816	Caolan	Daic	China
+CL29	N*	189 400	-	-	+	-	-	+	-	2		G	A		 EF654817	Caolan	Daic	China
+CL30	R9b	192 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF654818	Caolan	Daic	China
+CT12	M*	124 183C 189 293C 325 362	+	+	+	-	-	+	-	2			A		 EF654819	Chut	Austro-Asiatic	Vietnam
+CU01	M*	172 223 291 311	+	+	+	-	-	+	-	2		G	A		 EF654820	Cun	Daic	China
+CU02	M*	172 223 291 311	+	+	+	-	-	+	-	2		G	A		 EF654821	Cun	Daic	China
+CU03	B4a	129 189 217 261	-	-	+	-	-	+	-	1		G	A		 EF654822	Cun	Daic	China
+CU04	B4a	189 217 261	-	-	+	-	-	+	-	1		G	A		 EF654823	Cun	Daic	China
+CU05	N*	Crs	+	+	+	-	-	+	+	2			A		 EF654824	Cun	Daic	China
+CU06	M7b1	129 192 223 297 301G 391	+	+	+	-	-	+	+	2		G	A		 EF654825	Cun	Daic	China
+CU07	D*	111 129 223 233C 235 362	+	+	-	-	-	+	-	2			A	G	 EF654826	Cun	Daic	China
+CU08	M*	172 223 291 311	+	+	+	-	-	+	-	2		G	A		 EF654827	Cun	Daic	China
+CU09	F1a	129 162 172 304 399	-	-	+	-	-	-	-	2		A	A		 EF654828	Cun	Daic	China
+CU10	F-un1	218 304 311	-	-	+	-	-	+	-	2		A	A		 EF654829	Cun	Daic	China
+CU11	M7b	223 297 365	+	+	+	-	-	+	+	2		G	A		 EF654830	Cun	Daic	China
+CU12	D*	93 129 223 263 362	+	+	-	-	-	+	-	2			A	G	 EF654831	Cun	Daic	China
+CU13	C	189 223 298 327	+	+	+	-	-	+	-	2			G		 EF654832	Cun	Daic	China
+CU14	C	95A 189 217Y 242 262A 298Y 327	+	+	+	-	-	+	-	2			G		 EF654833	Cun	Daic	China
+CU15	R9b	304 309 390	-	-	+	-	-	+	-	2		G	A		 EF654834	Cun	Daic	China
+CU16	B*	93 178 189	-	-	+	-	-	+	-	1			A		 EF654835	Cun	Daic	China
+CU17	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF654836	Cun	Daic	China
+CU18	M*	172 223 291 311	+	+	+	-	-	+	-	2		G	A		 EF654837	Cun	Daic	China
+CU19	F-un1	218 304 311	-	-	+	-	-	+	-	2		A	A		 EF654838	Cun	Daic	China
+CU20	R9b	223 298 309 390	-	-	+	-	-	+	-	2		G	A		 EF654839	Cun	Daic	China
+CU21	M8a	184 223 298 319	+	+	+	-	-	+	-	2			G		 EF654840	Cun	Daic	China
+CU22	M*	129 223 311	+	+	+	-	-	+	-	2		G	A		 EF654841	Cun	Daic	China
+CU23	F-un1	218 304 311	-	-	+	-	-	+	-	2		A	A		 EF654842	Cun	Daic	China
+CU24	B4	103 140 189 214 217 274 311 335	-	-	+	-	-	+	-	1		G	A		 EF654843	Cun	Daic	China
+CU25	B4	140 189 217 242A 274 335	-	-	+	-	-	+	-	1		G	A		 EF654844	Cun	Daic	China
+CU26	B4a	189 217 261	-	-	+	-	-	+	-	1		G	A		 EF654845	Cun	Daic	China
+CU27	G*	223 274 362	+	+	+	-	+	+	-	2			A		 EF654846	Cun	Daic	China
+CU28	B4b1	136 189 217	-	-	+	-	-	+	-	1		G	A		 EF654847	Cun	Daic	China
+CU29	C	189 223 298 327	+	+	+	-	-	+	-	2			G		 EF654848	Cun	Daic	China
+CU30	B4a	129 189 217 261	-	-	+	-	-	+	-	1		G	A		 EF654849	Cun	Daic	China
+CX01	B5	140 189    	+	-	+	-	-	+	-	1			A		 EF654850	Zhuang-N	Daic	China
+CX02	M7b1	129 192 223 297  	+	+	+	-	-	+	+	2		G	A		 EF654851	Zhuang-N	Daic	China
+CX04	M7b1	129 192 223 297  	+	+	+	-	-	+	+	2		G	A		 EF654852	Zhuang-N	Daic	China
+CX05	B*	129 189    	-	-	+	-	-	+	-	1			A		 EF654853	Zhuang-N	Daic	China
+CX06	C	223 263 298 327  	+	+	+	-	-	+	-	2			G		 EF654854	Zhuang-N	Daic	China
+CX07	R9b	124 148 304 309 390 	-	-	+	-	-	+	-	2		G	A		 EF654855	Zhuang-N	Daic	China
+CX08	N9a	172 189 223 257A 261 	-	-	+	-	-	+	-	2	A	G	A		 EF654856	Zhuang-N	Daic	China
+CX09	D*	223 249 362   	+	+	-	-	-	+	-	2			A	G	 EF654857	Zhuang-N	Daic	China
+CX11	M7b1	129 192 223 297  	+	+	+	-	-	+	+	2		G	A		 EF654858	Zhuang-N	Daic	China
+CX13	N*	189 311    	-	-	+	-	-	+	-	2		G	A		 EF654859	Zhuang-N	Daic	China
+CX14	M*	93 223 274 311 362 381	+	+	+	-	-	+	-	2		G	A		 EF654860	Zhuang-N	Daic	China
+CX15	B4a	92 189 217 261 299 	-	-	+	-	-	+	-	1		G	A		 EF654861	Zhuang-N	Daic	China
+CX16	M7b1	129 192 223 297  	+	+	+	-	-	+	+	2		G	A		 EF654862	Zhuang-N	Daic	China
+CX17	M7c1a	295 319    	+	+	+	-	-	+	+	2			A		 EF654863	Zhuang-N	Daic	China
+CX18	B4b1	136 189 217   	-	-	+	-	-	+	-	1		G	A		 EF654864	Zhuang-N	Daic	China
+CX19	R9b	192 304 309 390  	-	-	+	-	-	+	-	2		G	A		 EF654865	Zhuang-N	Daic	China
+CX20	D*	169 223 266 274 362 	+	+	-	-	-	+	-	2			A	G	 EF654866	Zhuang-N	Daic	China
+CX21	M*	93 223 290   	+	+	+	-	-	+	-	2		G	A		 EF654867	Zhuang-N	Daic	China
+CX22	D*	223 249 362   	+	+	-	-	-	+	-	2			A	G	 EF654868	Zhuang-N	Daic	China
+CX23	F1a	172 304    	-	-	+	-	-	-	-	2		A	A		 EF654869	Zhuang-N	Daic	China
+CX24	F1a	172 304    	-	-	+	-	-	-	-	2		A	A		 EF654870	Zhuang-N	Daic	China
+CX25	M7b1	129 192 223 297 362 	+	+	+	-	-	+	+	2		G	A		 EF654871	Zhuang-N	Daic	China
+CX26	M7b1	129 189 192 223 297 	+	+	+	-	-	+	+	2		G	A		 EF654872	Zhuang-N	Daic	China
+CX27	M7b	129 189 223 297  	+	+	+	-	-	+	+	2		G	A		 EF654873	Zhuang-N	Daic	China
+CX28	R9c	157 256 266 304 311 335	-	-	+	-	-	+	-	2		G	A		 EF654874	Zhuang-N	Daic	China
+CY01	B5a	140 189 266A   	+	-	+	-	-	+	-	1		G	A		 EF654875	Zhuang-S	Daic	China
+CY02	B5a	140 189 266A   	+	-	+	-	-	+	-	1		G	A		 EF654876	Zhuang-S	Daic	China
+CY03	D*	223 362    	+	+	-	-	-	+	-	2			A	G	 EF654877	Zhuang-S	Daic	China
+CY04	F1a	129 162 172 304 399 	-	-	+	-	-	-	-	2		A	A		 EF654878	Zhuang-S	Daic	China
+CY05	B4a	93 136 189 217 261 319	-	-	+	-	-	+	-	1		G	A		 EF654879	Zhuang-S	Daic	China
+CY06	B5a	140 189 266A   	+	-	+	-	-	+	-	1		G	A		 EF654880	Zhuang-S	Daic	China
+CY07	B4a	189 213 217 261 292 	-	-	+	-	-	+	-	1		G	A		 EF654881	Zhuang-S	Daic	China
+CY08	F1b	189 249 300 304 	-	-	+	-	-	-	-	2		A	A		 EF654882	Zhuang-S	Daic	China
+CY09	M7b	129 189 223 297 	+	+	+	-	-	+	+	2		G	A		 EF654883	Zhuang-S	Daic	China
+CY11	N9a	223 257A 261 311 	-	-	+	-	-	+	-	2	A	G	A		 EF654884	Zhuang-S	Daic	China
+CY55	B4	184A 189 217 235	-	-	+	-	-	+	-	1		G	A		 EF654885	Zhuang-S	Daic	China
+CY58	N9a	223 257A 261 311	-	-	+	-	-	+	-	2	A	G	A		 EF654886	Zhuang-S	Daic	China
+DA01	M*	223 355N 362  	+	+	+	-	-	+	-	2		G	A		 EF654887	Dai-lu	Daic	China
+DA02	A	223 274 290 319 362	-	-	+	+	-	+	-	2			A		 EF654888	Dai-lu	Daic	China
+DA03	Z	185 223 260 298 	+	+	+	-	-	+	-	2		G	G		 EF654889	Dai-lu	Daic	China
+DA04	D*	93 174 223 362 	+	+	-	-	-	+	-	2			A	G	 EF654890	Dai-lu	Daic	China
+DA05	B5a	93 140 189 261 266A	+	-	+	-	-	+	-	1		G	A		 EF654891	Dai-lu	Daic	China
+DA06	A	124 223 290 319 362	-	-	+	+	-	+	-	2			A		 EF654892	Dai-lu	Daic	China
+DA07	B4a	189 213 217 261 292	-	-	+	-	-	+	-	1		G	A		 EF654893	Dai-lu	Daic	China
+DA08	F1a	129 172 224 304 355N 	-	-	+	-	-	-	-	2		A	A		 EF654894	Dai-lu	Daic	China
+DA09	B4b1	136 189 217 218  	-	-	+	-	-	+	-	1		G	A		 EF654895	Dai-lu	Daic	China
+DA10	D*	223 294 355N 362  	+	+	-	-	-	+	-	2			A	G	 EF654896	Dai-lu	Daic	China
+DA11	F1c	111 129 266 304 355N 	-	-	+	-	-	-	-	2		A	A		 EF654897	Dai-lu	Daic	China
+DA12	N9a	223 257A 261   	-	-	+	-	-	+	-	2	A	G	A		 EF654898	Dai-lu	Daic	China
+DA13	M*	184 223 290 362  	+	+	+	-	-	+	-	2		G	A		 EF654899	Dai-lu	Daic	China
+DA14	B4b1	136 189 217 309 354 	-	-	+	-	-	+	-	1		G	A		 EF654900	Dai-lu	Daic	China
+DA15	M7b	93 129 189 223 297 	+	+	+	-	-	+	+	2		G	A		 EF654901	Dai-lu	Daic	China
+DA16	B4a	153 189 213 217 261 292	-	-	+	-	-	+	-	1		G	A		 EF654902	Dai-lu	Daic	China
+DA17	M7*	223 311 355N 362  	+	+	+	-	-	+	+	2			A		 EF654903	Dai-lu	Daic	China
+DA18	M*	215 223 270 311 362 381	+	+	+	-	-	+	-	2		G	A		 EF654904	Dai-lu	Daic	China
+DA19	B5a	140 189 266A   	+	-	+	-	-	+	-	1		G	A		 EF654905	Dai-lu	Daic	China
+DA20	C	189 223 298 327  	+	+	+	-	-	+	-	2			G		 EF654906	Dai-lu	Daic	China
+DA21	F3	260 298 355 362  	-	-	+	-	-	+	-	2		A	A		 EF654907	Dai-lu	Daic	China
+DA22	M7b	129 189 223 297  	+	+	+	-	-	+	+	2		G	A		 EF654908	Dai-lu	Daic	China
+DA23	M7b	129 223 297   	+	+	+	-	-	+	+	2		G	A		 EF654909	Dai-lu	Daic	China
+DA24	R9b	192 288 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF654910	Dai-lu	Daic	China
+DA25	B*	93 179 189  	-	-	+	-	-	+	-	1			A		 EF654911	Dai-lu	Daic	China
+DA26	D*	145 172 192 223 362	+	+	-	-	-	+	-	2			A	G	 EF654912	Dai-lu	Daic	China
+DA27	M7*	362	+	+	+	-	-	+	+	2			A		 EF654913	Dai-lu	Daic	China
+DA28	D5*	189 223 362  	-	-	-	-	-	+	-	2		G	A	G	 EF654914	Dai-lu	Daic	China
+DA29	M7b1	129 192 223 294 297	+	+	+	-	-	+	+	2		G	A		 EF654915	Dai-lu	Daic	China
+DA30	M*	223 260 264 271 	+	+	+	-	-	+	-	2		G	A		 EF654916	Dai-lu	Daic	China
+DA31	F1a	129 172 224 304 	-	-	+	-	-	-	-	2		A	A		 EF654917	Dai-lu	Daic	China
+DA32	F*	93 304   	-	-	+	-	-	+	-	2		A	A		 EF654918	Dai-lu	Daic	China
+DA33	F1a	129 162 172 304 311	-	-	+	-	-	-	-	2		A	A		 EF654919	Dai-lu	Daic	China
+DA34	M*	129 209 223 272 	+	+	+	-	-	+	-	2		G	A		 EF654920	Dai-lu	Daic	China
+DA35	D5*	189 223 362  	-	-	-	-	-	+	-	2		G	A	G	 EF654921	Dai-lu	Daic	China
+DA36	R9b	192 304 309 390 	-	-	+	-	-	+	-	2		G	A		 EF654922	Dai-lu	Daic	China
+DA37	B4a	93 214 216 217 261	-	-	+	-	-	+	-	1		G	A		 EF654923	Dai-lu	Daic	China
+DA38	M*	94 223 271  	+	+	+	-	-	+	-	2		G	A		 EF654924	Dai-lu	Daic	China
+DA39	F1a	129 172 291 293 304	-	-	+	-	-	-	-	2		A	A		 EF654925	Dai-lu	Daic	China
+DA40	C	223 298 327   	+	+	+	-	-	+	-	2			G		 EF654926	Dai-lu	Daic	China
+DA41	R*	223 327    	-	-	+	-	-	+	-	2		G	A		 EF654927	Dai-lu	Daic	China
+DA42	M7b1	129 192 223 297  	+	+	+	-	-	+	+	2		G	A		 EF654928	Dai-lu	Daic	China
+DA43	R9c	157 234 304   	-	-	+	-	-	+	-	2		G	A		 EF654929	Dai-lu	Daic	China
+DA44	F1a	108 129 162 172 270 304	-	-	+	-	-	-	-	2		A	A		 EF654930	Dai-lu	Daic	China
+DA45	C	93 172 223 298 327 	+	+	+	-	-	+	-	2			G		 EF654931	Dai-lu	Daic	China
+DA46	C	223 298 327   	+	+	+	-	-	+	-	2			G		 EF654932	Dai-lu	Daic	China
+DA47	B5a	140 189 266A   	+	-	+	-	-	+	-	1		G	A		 EF654933	Dai-lu	Daic	China
+DA48	R9b	192 304 309 390  	-	-	+	-	-	+	-	2		G	A		 EF654934	Dai-lu	Daic	China
+DA49	B4a	189 213 217 261 292 362	-	-	+	-	-	+	-	1		G	A		 EF654935	Dai-lu	Daic	China
+DA50	M*	172 189 223 234 290 399	+	+	+	-	-	+	-	2		G	A		 EF654936	Dai-lu	Daic	China
+DA51	M7b	129 189 223 297  	+	+	+	-	-	+	+	2		G	A		 EF654937	Dai-lu	Daic	China
+DA52	C	189 223 298 327  	+	+	+	-	-	+	-	2			G		 EF654938	Dai-lu	Daic	China
+DA53	D*	223 249 362   	+	+	-	-	-	+	-	2			A	G	 EF654939	Dai-lu	Daic	China
+DA54	Z	185 223 260 298  	+	+	+	-	-	+	-	2		G	G		 EF654940	Dai-lu	Daic	China
+DA55	R9c	157 243 304   	-	-	+	-	-	+	-	2		G	A		 EF654941	Dai-lu	Daic	China
+DA56	A	223 290 319 362  	-	-	+	+	-	+	-	2			A		 EF654942	Dai-lu	Daic	China
+DE01	D	129 223 274 311 362 381	+	+	-	-	-	+	-	2			A	G	 EF654943	Die	Austro-Asiatic	Vietnam
+DE02	F1a	129 162 172 186 189 193 242 243 304 519	-	-	+	-	-	-	-	2		A	A		 EF654944	Die	Austro-Asiatic	Vietnam
+DG01	F1a	129 162 172 304 362	-	-	+	-	-	-	-	2		A	A		 EF654945	Danga	Daic	China
+DG02	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF654946	Danga	Daic	China
+DG03	Z	185 223 260 298	+	+	+	-	-	+	-	2		G	G		 EF654947	Danga	Daic	China
+DG04	B*	189 no mut	-	-	+	-	-	+	-	1			A		 EF654948	Danga	Daic	China
+DG05	M7c1*	209 223 293T 295	+	+	+	-	-	+	+	2			A		 EF654949	Danga	Daic	China
+DG06	B4a	189 213 217 261 362	-	-	+	-	-	+	-	1		G	A		 EF654950	Danga	Daic	China
+DG07	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF654951	Danga	Daic	China
+DG08	N*	189 no mut	-	-	+	-	-	+	-	2		G	A		 EF654952	Danga	Daic	China
+DG09	B4a	189 213 217 261 362	-	-	+	-	-	+	-	1		G	A		 EF654953	Danga	Daic	China
+DG10	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF654954	Danga	Daic	China
+DG11	B4a	189 213 217 261 362	-	-	+	-	-	+	-	1		G	A		 EF654955	Danga	Daic	China
+DG12	N*	93 223 234 258T 290	-	-	+	-	-	+	-	2		G	A		 EF654956	Danga	Daic	China
+DG13	C	171 223 298 327 344 357	+	+	+	-	-	+	-	2			G		 EF654957	Danga	Daic	China
+DG14	N*	92 136 189 194C	-	-	+	-	-	+	-	2		G	A		 EF654958	Danga	Daic	China
+DG15	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF654959	Danga	Daic	China
+DG16	C	189 223 298 327	+	+	+	-	-	+	-	2			G		 EF654960	Danga	Daic	China
+DG17	M*	223 234 287 290 362	+	+	+	-	-	+	-	2		G	A		 EF654961	Danga	Daic	China
+DG18	B5a	189 266A 	+	-	+	-	-	+	-	1		G	A		 EF654962	Danga	Daic	China
+DG19	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF654963	Danga	Daic	China
+DG20	M10	93 129 193 223 311 357	+	+	+	-	-	+	-	2		G	A		 EF654964	Danga	Daic	China
+DG21	F*	Crs	-	-	+	-	-	+	-	2		A	A		 EF654965	Danga	Daic	China
+DG22	B5a	140 189 266A 362	+	-	+	-	-	+	-	1		G	A		 EF654966	Danga	Daic	China
+DG23	F3	93 209 298 355 362	-	-	+	-	-	+	-	2		A	A		 EF654967	Danga	Daic	China
+DG24	B5a	140 189 209 266A	+	-	+	-	-	+	-	1		G	A		 EF654968	Danga	Daic	China
+DG25	N9a	172 223 257A 261 311	-	-	+	-	-	+	-	2	A	G	A		 EF654969	Danga	Daic	China
+DG26	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF654970	Danga	Daic	China
+DG27	A	126 223 235 290 319	-	-	+	+	-	+	-	2			A		 EF654971	Danga	Daic	China
+DG28	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF654972	Danga	Daic	China
+DG29	B5a	93 140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF654973	Danga	Daic	China
+DG30	B5a	140 189 266A 297 361 399	+	-	+	-	-	+	-	1		G	A		 EF654974	Danga	Daic	China
+DG31	B4	140 189 217 242A 274 335	-	-	+	-	-	+	-	1		G	A		 EF654975	Danga	Daic	China
+DG32	B4	140 189 217 274 311 335	-	-	+	-	-	+	-	1		G	A		 EF654976	Danga	Daic	China
+DG33	B4	147 184A 189 217 235	-	-	+	-	-	+	-	1		G	A		 EF654977	Danga	Daic	China
+DG34	N*	189 311 390 399	-	-	+	-	-	+	-	2		G	A		 EF654978	Danga	Daic	China
+DG35	C	189 223 327 358	+	+	+	-	-	+	-	2			G		 EF654979	Danga	Daic	China
+DG36	R9b	304 309	-	-	+	-	-	+	-	2		G	A		 EF654980	Danga	Daic	China
+DG37	A	223 290 319 362	-	-	+	+	-	+	-	2			A		 EF654981	Danga	Daic	China
+DG38	M*	129 223 311	+	+	+	-	-	+	-	2		G	A		 EF654982	Danga	Daic	China
+DG39	B4	92 140 189 217 274 291 319 335 390	-	-	+	-	-	+	-	1		G	A		 EF654983	Danga	Daic	China
+DG40	M*	129 223 311	+	+	+	-	-	+	-	2		G	A		 EF654984	Danga	Daic	China
+DN01	B4a	 189 217 261       	-	-	+	-	-	+	-	1		G	A		 EF654985	Dong	Daic	China
+DN02	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF654986	Dong	Daic	China
+DN03	F1c	 111 129 266 304        	-	-	+	-	-	-	-	2		A	A		 EF654987	Dong	Daic	China
+DN04	G*	 223 362          	+	+	+	-	+	+	-	2			A		 EF654988	Dong	Daic	China
+DN05	A	 93 223 290 319 362       	-	-	+	+	-	+	-	2			A		 EF654989	Dong	Daic	China
+DN06	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF654990	Dong	Daic	China
+DN07	M10	 93 189 223 311 357       	+	+	+	-	-	+	-	2		G	A		 EF654991	Dong	Daic	China
+DN08	A	 114 223 290 294 319 362      	-	-	+	+	-	+	-	2			A		 EF654992	Dong	Daic	China
+DN09	G*	 223 362          	+	+	+	-	+	+	-	2			A		 EF654993	Dong	Daic	China
+DN10	A	 114 223 234 290 294 319 362     	-	-	+	+	-	+	-	2			A		 EF654994	Dong	Daic	China
+GA01	M7b	129 223 255 297	+	+	+	-	-	+	+	2		G	A		 EF654995	Qau	Daic	China
+GA02	D*	186 189 223 319 362	+	+	-	-	-	+	-	2			A	G	 EF654996	Qau	Daic	China
+GA03	M7b	129 223 255 297	+	+	+	-	-	+	+	2		G	A		 EF654997	Qau	Daic	China
+GA04	D5a	92 164 172 189 223 266 362	-	-	-	-	-	+	-	2		G	A	G	 EF654998	Qau	Daic	China
+GA05	F1a	108 129 162 172 214 304	-	-	+	-	-	-	-	2		A	A		 EF654999	Qau	Daic	China
+GA07	D5a	92 164 172 189 223 266 362	-	-	-	-	-	+	-	2		G	A	G	 EF655000	Qau	Daic	China
+GA08	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655001	Qau	Daic	China
+GA09	F1a	108 129 162 172 214 304	-	-	+	-	-	-	-	2		A	A		 EF655002	Qau	Daic	China
+GA10	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655003	Qau	Daic	China
+GA11	M*	93 114 223 311 362 381	+	+	+	-	-	+	-	2		G	A		 EF655004	Qau	Daic	China
+GA12	B4a	103 189 217 261	-	-	+	-	-	+	-	1		G	A		 EF655005	Qau	Daic	China
+GA13	M7b	129 213 223 297	+	+	+	-	-	+	+	2		G	A		 EF655006	Qau	Daic	China
+GL01	C	223 266 298 327	+	+	+	-	-	+	-	2			G		 EF655007	Blue-Gelao	Daic	China
+GL02	C	223 266 298 327	+	+	+	-	-	+	-	2			G		 EF655008	Blue-Gelao	Daic	China
+GL03	B*	93 179 189	-	-	+	-	-	+	-	1			A		 EF655009	Blue-Gelao	Daic	China
+GL04	A	129 223 260 290 319	-	-	+	+	-	+	-	2			A		 EF655010	Blue-Gelao	Daic	China
+GL05	B*	93 179 189	-	-	+	-	-	+	-	1			A		 EF655011	Blue-Gelao	Daic	China
+GL06	M*	158 223 234 362	+	+	+	-	-	+	-	2		G	A		 EF655012	Blue-Gelao	Daic	China
+GL07	M*	158 223 234 362	+	+	+	-	-	+	-	2		G	A		 EF655013	Blue-Gelao	Daic	China
+GL08	M*	158 223 234 362	+	+	+	-	-	+	-	2		G	A		 EF655014	Blue-Gelao	Daic	China
+GL09	F1a	129 162 172 304	-	-	+	-	-	-	-	2		A	A		 EF655015	Blue-Gelao	Daic	China
+GL10	D*	92 223 362	+	+	-	-	-	+	-	2			A	G	 EF655016	Blue-Gelao	Daic	China
+GL11	M*	192 223 316 362                                                                                                                                      	+	+	+	-	-	+	-	2		G	A		 EF655017	Blue-Gelao	Daic	China
+GL12	F1a	129 162 172 304 399	-	-	+	-	-	-	-	2		A	A		 EF655018	Blue-Gelao	Daic	China
+GL13	F2a	92A 291 304 311	-	-	+	-	-	+	-	2		A	A		 EF655019	Blue-Gelao	Daic	China
+GL14	F1a	129 162 172 304 399	-	-	+	-	-	-	-	2		A	A		 EF655020	Blue-Gelao	Daic	China
+GL15	M*	223 271 318	+	+	+	-	-	+	-	2		G	A		 EF655021	Blue-Gelao	Daic	China
+GL16	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655022	Blue-Gelao	Daic	China
+GL17	M7b	129 189 214 223 297 399	+	+	+	-	-	+	+	2		G	A		 EF655023	Blue-Gelao	Daic	China
+GL18	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655024	Blue-Gelao	Daic	China
+GL19	N*	189 311 390 399	-	-	+	-	-	+	-	2		G	A		 EF655025	Blue-Gelao	Daic	China
+GL20	M*	158 223 234 362	+	+	+	-	-	+	-	2		G	A		 EF655026	Blue-Gelao	Daic	China
+GL21	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655027	Blue-Gelao	Daic	China
+GL22	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655028	Blue-Gelao	Daic	China
+GL23	B4a	189 213 217 242 261 292 301	-	-	+	-	-	+	-	1		G	A		 EF655029	Blue-Gelao	Daic	China
+GL24	F3	93 111 192 249 269 298 355 362 390	-	-	+	-	-	+	-	2		A	A		 EF655030	Blue-Gelao	Daic	China
+GL25	M*	93 223 225 234 266 290 311	+	+	+	-	-	+	-	2		G	A		 EF655031	Blue-Gelao	Daic	China
+GL26	M*	93 223 225 234 266 290 311	+	+	+	-	-	+	-	2		G	A		 EF655032	Blue-Gelao	Daic	China
+GL27	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655033	Blue-Gelao	Daic	China
+GL28	C	187 223 298 327	+	+	+	-	-	+	-	2			G		 EF655034	Blue-Gelao	Daic	China
+GL29	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655035	Blue-Gelao	Daic	China
+GL30	C	187 223 298 327	+	+	+	-	-	+	-	2			G		 EF655036	Blue-Gelao	Daic	China
+HL01	M*	172 223 291 311	+	+	+	-	-	+	-	2		G	A		 EF655037	Hlai-Qi	Daic	China
+HL02	M*	223	+	+	+	-	-	+	-	2		G	A		 EF655038	Hlai-Qi	Daic	China
+HL03	G*	223 362	+	+	+	-	+	+	-	2			A		 EF655039	Hlai-Qi	Daic	China
+HL04	B4a	189 213 217 261 292	-	-	+	-	-	+	-	1		G	A		 EF655040	Hlai-Qi	Daic	China
+HL05	G*	223 362	+	+	+	-	+	+	-	2			A		 EF655041	Hlai-Qi	Daic	China
+HL08	M7c1*	223 295	+	+	+	-	-	+	+	2			A		 EF655042	Hlai-Qi	Daic	China
+HL09	M7c1*	223 295	+	+	+	-	-	+	+	2			A		 EF655043	Hlai-Qi	Daic	China
+HL10	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF655044	Hlai-Qi	Daic	China
+HL11	F-un1	218 304 311	-	-	+	-	-	+	-	2		A	A		 EF655045	Hlai-Qi	Daic	China
+HL12	M7b1	129 192 223 234 297	+	+	+	-	-	+	+	2		G	A		 EF655046	Hlai-Qi	Daic	China
+HL13	M*	189 223 278	+	+	+	-	-	+	-	2		G	A		 EF655047	Hlai-Qi	Daic	China
+HL14	B4a	129 189 217 261	-	-	+	-	-	+	-	1		G	A		 EF655048	Hlai-Qi	Daic	China
+HL40	B4b1	136 189 217	-	-	+	-	-	+	-	1		G	A		 EF655049	Hlai-Qi	Daic	China
+HL41	M*	223 234 258T 290	+	+	+	-	-	+	-	2		G	A		 EF655050	Hlai-Qi	Daic	China
+HL42	N9a	142 176 223 257A 261	-	-	+	-	-	+	-	2	A	G	A		 EF655051	Hlai-Qi	Daic	China
+HL43	M*	223 234 258T 290	+	+	+	-	-	+	-	2		G	A		 EF655052	Hlai-Qi	Daic	China
+HL44	D*	223 234 311 362	+	+	-	-	-	+	-	2			A	G	 EF655053	Hlai-Qi	Daic	China
+HL45	B*	189 217 261	-	-	+	-	-	+	-	1			A		 EF655054	Hlai-Qi	Daic	China
+HL46	R9b	304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655055	Hlai-Qi	Daic	China
+HL47	B4b1	136 189 217	-	-	+	-	-	+	-	1		G	A		 EF655056	Hlai-Qi	Daic	China
+HL48	B4b1	136 189 217 309 354	-	-	+	-	-	+	-	1		G	A		 EF655057	Hlai-Qi	Daic	China
+HL49	M*	172 223 291 311	+	+	+	-	-	+	-	2		G	A		 EF655058	Hlai-Qi	Daic	China
+HL50	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655059	Hlai-Qi	Daic	China
+HL51	M*	172 223 291 311	+	+	+	-	-	+	-	2		G	A		 EF655060	Hlai-Qi	Daic	China
+HL52	M*	172 223 291 311	+	+	+	-	-	+	-	2		G	A		 EF655061	Hlai-Qi	Daic	China
+HL53	F*	299 304	-	-	+	-	-	+	-	2		A	A		 EF655062	Hlai-Qi	Daic	China
+HL54	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655063	Hlai-Qi	Daic	China
+HL55	F-un1	218 266 304 311	-	-	+	-	-	+	-	2		A	A		 EF655064	Hlai-Qi	Daic	China
+HL56	B5a	140 189 266A 280 294	+	-	+	-	-	+	-	1		G	A		 EF655065	Hlai-Qi	Daic	China
+HL57	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655066	Hlai-Qi	Daic	China
+HL58	M8a	184 189 223 298 319	+	+	+	-	-	+	-	2			G		 EF655067	Hlai-Qi	Daic	China
+HL59	N*	93 172 223 291 311	-	-	+	-	-	+	-	2		G	A		 EF655068	Hlai-Qi	Daic	China
+HL60	B*	129 189	-	-	+	-	-	+	-	1			A		 EF655069	Hlai-Qi	Daic	China
+HL61	B4a	93 189 217 261 311	-	-	+	-	-	+	-	1		G	A		 EF655070	Hlai-Qi	Daic	China
+HR33	F1a	129 172 304	-	-	+	-	-	-	-	2		A	A		 EF655071	Hre	Austro-Asiatic	Vietnam
+HS01	B4b1	 136 189 217 270 298     	-	-	+	-	-	+	-	1		G	A		 EF655072	Sui	Daic	China
+HS02	F3	 93 111 192 249 263 298 355 362 390   	-	-	+	-	-	+	-	2		A	A		 EF655073	Sui	Daic	China
+HS03	M7b	 223 297          	+	+	+	-	-	+	+	2		G	A		 EF655074	Sui	Daic	China
+HS04	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655075	Sui	Daic	China
+HS05	F1a	 129 162 172 304        	-	-	+	-	-	-	-	2		A	A		 EF655076	Sui	Daic	China
+HS06	F1a	 172 179 274 304        	-	-	+	-	-	-	-	2		A	A		 EF655077	Sui	Daic	China
+HS07	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655078	Sui	Daic	China
+HS08	M7c*	 104 223          	+	+	+	-	-	+	+	2			A		 EF655079	Sui	Daic	China
+HS09	B5a	 140 189 266A 463      	+	-	+	-	-	+	-	1		G	A		 EF655080	Sui	Daic	China
+HS10	F1a	 129 172 304         	-	-	+	-	-	-	-	2		A	A		 EF655081	Sui	Daic	China
+HS11	F3	 111 192 249 263 298 355 362 390    	-	-	+	-	-	+	-	2		A	A		 EF655082	Sui	Daic	China
+HS12	F1a	 129 172 304         	-	-	+	-	-	-	-	2		A	A		 EF655083	Sui	Daic	China
+HS13	M8a	 184 189 223 298 311 319 390 468 470 471 473 	+	+	+	-	-	+	-	2			G		 EF655084	Sui	Daic	China
+HS14	B4b1	 136 189 217 239 270 298    	-	-	+	-	-	+	-	1		G	A		 EF655085	Sui	Daic	China
+HS15	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF655086	Sui	Daic	China
+HS16	M7b	 223 297          	+	+	+	-	-	+	+	2		G	A		 EF655087	Sui	Daic	China
+HS17	B4a	 189 213 217 261 292    	-	-	+	-	-	+	-	1		G	A		 EF655088	Sui	Daic	China
+HS18	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF655089	Sui	Daic	China
+HS19	F3	 260 298 355 362        	-	-	+	-	-	+	-	2		A	A		 EF655090	Sui	Daic	China
+HS20	M7c*	 104 223          	+	+	+	-	-	+	+	2			A		 EF655091	Sui	Daic	China
+HS21	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF655092	Sui	Daic	China
+HS22	M8a	 184 189 223 298 311 319 390 468 470 471 473 	+	+	+	-	-	+	-	2			G		 EF655093	Sui	Daic	China
+HS23	F1a	 108 129 162 172 214 304      	-	-	+	-	-	-	-	2		A	A		 EF655094	Sui	Daic	China
+HS24	F3	 260 298 355 362        	-	-	+	-	-	+	-	2		A	A		 EF655095	Sui	Daic	China
+HS25	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF655096	Sui	Daic	China
+HS26	D5a	 92 148 189 223 362      	-	-	-	-	-	+	-	2		G	A	G	 EF655097	Sui	Daic	China
+HS27	F-un1	129 218 265 304 311	-	-	+	-	-	+	-	2		A	A		 EF655098	Sui	Daic	China
+HS28	R9b	189 192 304 309 390    	-	-	+	-	-	+	-	2		G	A		 EF655099	Sui	Daic	China
+HS29	B5a	 140 189 266A       	+	-	+	-	-	+	-	1		G	A		 EF655100	Sui	Daic	China
+HS30	F1a	 129 162 172 266 304       	-	-	+	-	-	-	-	2		A	A		 EF655101	Sui	Daic	China
+JM06	B4a	189 217 261	-	-	+	-	-	+	-	1		G	A		 EF655102	Jiamao	Daic	China
+JM07	F2a	92A 192 291 304	-	-	+	-	-	+	-	2		A	A		 EF655103	Jiamao	Daic	China
+JM15	F2a	92A 192 291 304	-	-	+	-	-	+	-	2		A	A		 EF655104	Jiamao	Daic	China
+JM16	B4	189 217 338R	-	-	+	-	-	+	-	1		G	A		 EF655105	Jiamao	Daic	China
+JM17	B5b	111 140 189 234 243	+	-	+	-	-	+	-	1		G	A		 EF655106	Jiamao	Daic	China
+JM18	M*	223 234 258T 290	+	+	+	-	-	+	-	2		G	A		 EF655107	Jiamao	Daic	China
+JM19	M8a	145 184 189 223 298 319	+	+	+	-	-	+	-	2			G		 EF655108	Jiamao	Daic	China
+JM20	F*	304	-	-	+	-	-	+	-	2		A	A		 EF655109	Jiamao	Daic	China
+JM21	B*	189	-	-	+	-	-	+	-	1			A		 EF655110	Jiamao	Daic	China
+JM22	R9b	192 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655111	Jiamao	Daic	China
+JM23	F*	304	-	-	+	-	-	+	-	2		A	A		 EF655112	Jiamao	Daic	China
+JM24	F*	304	-	-	+	-	-	+	-	2		A	A		 EF655113	Jiamao	Daic	China
+JM25	M7b1	129 176 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655114	Jiamao	Daic	China
+JM26	B4a	189 217 261	-	-	+	-	-	+	-	1		G	A		 EF655115	Jiamao	Daic	China
+JM27	M8a	184 189 223 298 311 319 390	+	+	+	-	-	+	-	2			G		 EF655116	Jiamao	Daic	China
+JM28	R9b	92 192 239 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655117	Jiamao	Daic	China
+JM29	B4	140 189 217 274 311 335	-	-	+	-	-	+	-	1		G	A		 EF655118	Jiamao	Daic	China
+JM30	F2a	92A 192 291 304	-	-	+	-	-	+	-	2		A	A		 EF655119	Jiamao	Daic	China
+JM31	N*	189 311 390 399	-	-	+	-	-	+	-	2		G	A		 EF655120	Jiamao	Daic	China
+JM32	F*	304	-	-	+	-	-	+	-	2		A	A		 EF655121	Jiamao	Daic	China
+JM33	R9b	192 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655122	Jiamao	Daic	China
+JM34	R9b	92 192 239 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655123	Jiamao	Daic	China
+JM35	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655124	Jiamao	Daic	China
+JM36	R9b	192 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655125	Jiamao	Daic	China
+JM37	B4a	189 217 240 261	-	-	+	-	-	+	-	1		G	A		 EF655126	Jiamao	Daic	China
+JM38	R9c	93 157 304	-	-	+	-	-	+	-	2		G	A		 EF655127	Jiamao	Daic	China
+JM39	M7b	223 297	+	+	+	-	-	+	+	2		G	A		 EF655128	Jiamao	Daic	China
+KH23	M*	124 148 223	+	+	+	-	-	+	-	2			A		 EF655129	Halang	Austro-Asiatic	Vietnam
+KN01	M*	223 269 271	+	+	+	-	-	+	-	2			A		 EF655130	Kinh	Austro-Asiatic	Vietnam
+KN02	M7b*	223 297	+	+	+	-	-	+	+	2			A		 EF655131	Kinh	Austro-Asiatic	Vietnam
+KN03	M7c1	53G 223 290 295 519 	+	+	+	-	-	+	+	2			A		 EF655132	Kinh	Austro-Asiatic	Vietnam
+KN04	B	223 274 311 362 381	-	-	+	-	-	+	-	1			A		 EF655133	Kinh	Austro-Asiatic	Vietnam
+KN05	G	189 223 278 362	+	+	+	-	+	+	-	2			A		 EF655134	Kinh	Austro-Asiatic	Vietnam
+KN06	B4*	140 182C 183C 189 217 274 311 335	-	-	+	-	-	+	-	1			A		 EF655135	Kinh	Austro-Asiatic	Vietnam
+KN07	M7b1	114A 129 192 297	+	+	+	-	-	+	+	2	G	G	A		 EF655136	Kinh	Austro-Asiatic	Vietnam
+KN08	M*	223 269 271	+	+	+	-	-	+	-	2			A		 EF655137	Kinh	Austro-Asiatic	Vietnam
+KN09	D	93 223 287 311 319 362 380	+	+	-	-	-	+	-	2			A	G	 EF655138	Kinh	Austro-Asiatic	Vietnam
+KN10	M*	223 362 519	+	+	+	-	-	+	-	2			A		 EF655139	Kinh	Austro-Asiatic	Vietnam
+KN11	F*	304 335 362	-	-	+	-	-	+	-	2		A	A		 EF655140	Kinh	Austro-Asiatic	Vietnam
+KN12	B4*	108 182C 183C 189 217 362	-	-	+	-	-	+	-	1			A		 EF655141	Kinh	Austro-Asiatic	Vietnam
+KN13	B5*	140 183C 189 243 311	+	-	+	-	-	+	-	1			A		 EF655142	Kinh	Austro-Asiatic	Vietnam
+KN14	M7b*	129 189 223 297	+	+	+	-	-	+	+	2			A		 EF655143	Kinh	Austro-Asiatic	Vietnam
+KN15	M7b1	129 192 223 297	+	+	+	-	-	+	+	2	G	G	A		 EF655144	Kinh	Austro-Asiatic	Vietnam
+KN16	N9a	223 257A 261 311	-	-	+	-	-	+	-	2	A	G	A		 EF655145	Kinh	Austro-Asiatic	Vietnam
+KN17	B4*	147 183C 184A 189 217 235 519	-	-	+	-	-	+	-	1			A		 EF655146	Kinh	Austro-Asiatic	Vietnam
+KN18	M7b*	129 145 223 297	+	+	+	-	-	+	+	2			A		 EF655147	Kinh	Austro-Asiatic	Vietnam
+KN19	M8a	184 223 298 319	+	+	+	-	-	+	-	2			G		 EF655148	Kinh	Austro-Asiatic	Vietnam
+KN20	F*	304 335 362	-	-	+	-	-	+	-	2		A	A		 EF655149	Kinh	Austro-Asiatic	Vietnam
+KN21	M7b*	223 297	+	+	+	-	-	+	+	2			A		 EF655150	Kinh	Austro-Asiatic	Vietnam
+KN22	C	223 298 327 519	+	+	+	-	-	+	-	2			G		 EF655151	Kinh	Austro-Asiatic	Vietnam
+KN23	R9b	288 304 309 390 519	-	-	+	-	-	+	-	2		G	A		 EF655152	Kinh	Austro-Asiatic	Vietnam
+KN24	F*	304 362 519	-	-	+	-	-	+	-	2		A	A		 EF655153	Kinh	Austro-Asiatic	Vietnam
+KN25	F*	304 362 519	-	-	+	-	-	+	-	2		A	A		 EF655154	Kinh	Austro-Asiatic	Vietnam
+KN26	F1a	108 129 162 172 304 519	-	-	+	-	-	-	-	2		A	A		 EF655155	Kinh	Austro-Asiatic	Vietnam
+KN27	F1a	108 129 162 172 304 519	-	-	+	-	-	-	-	2		A	A		 EF655156	Kinh	Austro-Asiatic	Vietnam
+KN28	Missing	92 111 148 183C 189													 EF655157	Kinh	Austro-Asiatic	Vietnam
+KN29	B	189	-	-	+	-	-	+	-	1			A		 EF655158	Kinh	Austro-Asiatic	Vietnam
+KN30	R9b	124 147 148 304 309 390 519	-	-	+	-	-	+	-	2		G	A		 EF655159	Kinh	Austro-Asiatic	Vietnam
+KN32	F1a	108 129 162 172 304	-	-	+	-	-	-	-	2		A	A		 EF655160	Kinh	Austro-Asiatic	Vietnam
+KN33	F1a	129 172 304 519	-	-	+	-	-	-	-	2		A	A		 EF655161	Kinh	Austro-Asiatic	Vietnam
+KN34	D	186 189 223 232A 293 319 362	+	+	-	-	-	+	-	2			A	G	 EF655162	Kinh	Austro-Asiatic	Vietnam
+KN35	M7b1	129 192 223 297 311	+	+	+	-	-	+	+	2	G	G	A		 EF655163	Kinh	Austro-Asiatic	Vietnam
+KN36	Missing	182C 183C 189													 EF655164	Kinh	Austro-Asiatic	Vietnam
+KN37	M*	223 234 309 362	+	+	+	-	-	+	-	2			A		 EF655165	Kinh	Austro-Asiatic	Vietnam
+KN38	R9b	124 148 304 309 390 519	-	-	+	-	-	+	-	2		G	A		 EF655166	Kinh	Austro-Asiatic	Vietnam
+KN39	G	223 362	+	+	+	-	+	+	-	2			A		 EF655167	Kinh	Austro-Asiatic	Vietnam
+KN40	F1a	129 172 304 519	-	-	+	-	-	-	-	2		A	A		 EF655168	Kinh	Austro-Asiatic	Vietnam
+KN42	F1a	129 172 295 304 519	-	-	+	-	-	-	-	2		A	A		 EF655169	Kinh	Austro-Asiatic	Vietnam
+KN43	F1a	108 129 162 172 304 311 519	-	-	+	-	-	-	-	2		A	A		 EF655170	Kinh	Austro-Asiatic	Vietnam
+KN44	C	188 189 235 266A 327 519	+	+	+	-	-	+	-	2			G		 EF655171	Kinh	Austro-Asiatic	Vietnam
+KN45	M7b1	129 189 192 223 297 519	+	+	+	-	-	+	+	2	G	G	A		 EF655172	Kinh	Austro-Asiatic	Vietnam
+KT01	B4*	147 183C 184A 189 217 235 519	-	-	+	-	-	+	-	1			A		 EF655173	Katu	Austro-Asiatic	Vietnam
+KT02	B4*	147 183C 184A 189 217 235 519	-	-	+	-	-	+	-	1			A		 EF655174	Katu	Austro-Asiatic	Vietnam
+LC01	M7b1	129 172 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655175	Lachi	Daic	China
+LC02	M*	158 223 284 287 319	+	+	+	-	-	+	-	2		G	A		 EF655176	Lachi	Daic	China
+LC03	B5a	92 129 140 189 266A 399	+	-	+	-	-	+	-	1		G	A		 EF655177	Lachi	Daic	China
+LC04	C	189 223 298 327	+	+	+	-	-	+	-	2			G		 EF655178	Lachi	Daic	China
+LC05	N*	263	-	-	+	-	-	+	-	2		G	A		 EF655179	Lachi	Daic	China
+LC06	R9b	124 148 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655180	Lachi	Daic	China
+LC07	C	223 298 327	+	+	+	-	-	+	-	2			G		 EF655181	Lachi	Daic	China
+LC08	C	223 298 327	+	+	+	-	-	+	-	2			G		 EF655182	Lachi	Daic	China
+LC09	B4	147 184A 189 217 235 245G	-	-	+	-	-	+	-	1		G	A		 EF655183	Lachi	Daic	China
+LC10	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655184	Lachi	Daic	China
+LC11	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655185	Lachi	Daic	China
+LC12	B5a	92 129 140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655186	Lachi	Daic	China
+LC13	R*	189 223 259 362	-	-	+	-	-	+	-	2			A		 EF655187	Lachi	Daic	China
+LC14	B4	147 184A 189 217 235	-	-	+	-	-	+	-	1		G	A		 EF655188	Lachi	Daic	China
+LC15	M7b	129 189 223 225 297	+	+	+	-	-	+	+	2		G	A		 EF655189	Lachi	Daic	China
+LC16	M*	158 223 284 287 319	+	+	+	-	-	+	-	2		G	A		 EF655190	Lachi	Daic	China
+LC17	M*	158 223 284 287 319	+	+	+	-	-	+	-	2		G	A		 EF655191	Lachi	Daic	China
+LC18	R9b	192 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655192	Lachi	Daic	China
+LC19	B4	147 184A 189 217 235	-	-	+	-	-	+	-	1		G	A		 EF655193	Lachi	Daic	China
+LC20	M7b1	129 172 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655194	Lachi	Daic	China
+LC21	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655195	Lachi	Daic	China
+LC22	F1a	108 129 162 172 304	-	-	+	-	-	-	-	2		A	A		 EF655196	Lachi	Daic	China
+LC23	B4a	168 189 182c 183c 217 261 311	-	-	+	-	-	+	-	1		G	A		 EF655197	Lachi	Daic	China
+LC24	G*	223 362	+	+	+	-	+	+	-	2			A		 EF655198	Lachi	Daic	China
+LC25	B4a	93 182c 183c 189 217 243 261 278	-	-	+	-	-	+	-	1		G	A		 EF655199	Lachi	Daic	China
+LC26	B4b1	95G 136 154 189 217	-	-	+	-	-	+	-	1		G	A		 EF655200	Lachi	Daic	China
+LC27	M*	108 111 129 172 234 290	+	+	+	-	-	+	-	2		G	A		 EF655201	Lachi	Daic	China
+LC28	F2a	92A 291 304 311	-	-	+	-	-	+	-	2		A	A		 EF655202	Lachi	Daic	China
+LC29	M7b	95G 129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655203	Lachi	Daic	China
+LC30	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655204	Lachi	Daic	China
+LG01	D*	111 129 223 233C 235 362	+	+	-	-	-	+	-	2			A	G	 EF655205	Lingao	Daic	China
+LG02	F1b	129 189 223 232 304G 304 390	-	-	+	-	-	-	-	2		A	A		 EF655206	Lingao	Daic	China
+LG03	M8a	184 189 223 229 298 311 319 390	+	+	+	-	-	+	-	2			G		 EF655207	Lingao	Daic	China
+LG04	M*	223 271	+	+	+	-	-	+	-	2		G	A		 EF655208	Lingao	Daic	China
+LG05	R9c	93 157 240 304	-	-	+	-	-	+	-	2		G	A		 EF655209	Lingao	Daic	China
+LG06	M7b	223 297	+	+	+	-	-	+	+	2		G	A		 EF655210	Lingao	Daic	China
+LG07	F*	304 362	-	-	+	-	-	+	-	2		A	A		 EF655211	Lingao	Daic	China
+LG08	F1a	108 129 162 172 304	-	-	+	-	-	-	-	2		A	A		 EF655212	Lingao	Daic	China
+LG09	G*	223 362	+	+	+	-	+	+	-	2			A		 EF655213	Lingao	Daic	China
+LG10	N9a	172 223 257A 261 311	-	-	+	-	-	+	-	2	A	G	A		 EF655214	Lingao	Daic	China
+LG11	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655215	Lingao	Daic	China
+LG12	G*	172 223 271 278 291A 298 362	+	+	+	-	+	+	-	2			A		 EF655216	Lingao	Daic	China
+LG13	M*	223 274 311 362 381	+	+	+	-	-	+	-	2		G	A		 EF655217	Lingao	Daic	China
+LG14	F3	260 298 355 362	-	-	+	-	-	+	-	2		A	A		 EF655218	Lingao	Daic	China
+LG15	A	111 223 235 362 399	-	-	+	+	-	+	-	4			A		 EF655219	Lingao	Daic	China
+LG16	B*	93 189	-	-	+	-	-	+	-	1			A		 EF655220	Lingao	Daic	China
+LG17	M*	223 259 278 294 319	+	+	+	-	-	+	-	2		G	A		 EF655221	Lingao	Daic	China
+LG18	B5	140 189	+	-	+	-	-	+	-	1			A		 EF655222	Lingao	Daic	China
+LG19	A	104 111 223 362	-	-	+	+	-	+	-	5			A		 EF655223	Lingao	Daic	China
+LG20	M8a	184 189 223 298 311 319 390	+	+	+	-	-	+	-	2			G		 EF655224	Lingao	Daic	China
+LG21	F*	304 362	-	-	+	-	-	+	-	2		A	A		 EF655225	Lingao	Daic	China
+LG22	B4b1	136 179 189 217	-	-	+	-	-	+	-	1		G	A		 EF655226	Lingao	Daic	China
+LG23	B4a	189 217 261 299	-	-	+	-	-	+	-	1		G	A		 EF655227	Lingao	Daic	China
+LG24	F-un1	218 304 311	-	-	+	-	-	+	-	2		A	A		 EF655228	Lingao	Daic	China
+LG25	N*	213	-	-	+	-	-	+	-	2		G	A		 EF655229	Lingao	Daic	China
+LG26	F*	304	-	-	+	-	-	+	-	2		A	A		 EF655230	Lingao	Daic	China
+LG27	C	129 148 223 298 327	+	+	+	-	-	+	-	2			G		 EF655231	Lingao	Daic	China
+LG28	M7b	223 297	+	+	+	-	-	+	+	2		G	A		 EF655232	Lingao	Daic	China
+LG29	C	189 223 240 298 327	+	+	+	-	-	+	-	2			G		 EF655233	Lingao	Daic	China
+LG30	F1a	129 162 172 192G 304	-	-	+	-	-	-	-	2		A	A		 EF655234	Lingao	Daic	China
+LG31	F2a	92A 291 304	-	-	+	-	-	+	-	2		A	A		 EF655235	Lingao	Daic	China
+LL1	A	223 294 362	-	-	+	+	-	+	-	2			A		 EF655236	Lolo	Sino-Tibetan	China
+LL2	G*	223 355A 362	+	+	+	-	+	+	-	2			A		 EF655237	Lolo	Sino-Tibetan	China
+LL3	B*	93 179 189	-	-	+	-	-	+	-	1			A		 EF655238	Lolo	Sino-Tibetan	China
+LL4	B4	189 217 258C 311 356	-	-	+	-	-	+	-	1		G	A		 EF655239	Lolo	Sino-Tibetan	China
+LQ01	F3	93 249 298 355 362 390	-	-	+	-	-	+	-	2		A	A		 EF655240	Pubiao	Daic	China
+LQ02	B4a	129 189 213 217 261 292	-	-	+	-	-	+	-	1		G	A		 EF655241	Pubiao	Daic	China
+LQ03	M*	223 234 356 362	+	+	+	-	-	+	-	2		G	A		 EF655242	Pubiao	Daic	China
+LQ04	M*	223 234 356 362	+	+	+	-	-	+	-	2		G	A		 EF655243	Pubiao	Daic	China
+LQ05	B4	108 189 217 362	-	-	+	-	-	+	-	1		G	A		 EF655244	Pubiao	Daic	China
+LQ06	F1b	129 189 223 248 297 304	-	-	+	-	-	-	-	2		A	A		 EF655245	Pubiao	Daic	China
+LQ07	R9b	124 148 304 309 362 390	-	-	+	-	-	+	-	2		G	A		 EF655246	Pubiao	Daic	China
+LQ08	F3	93 249 298 355 362 390	-	-	+	-	-	+	-	2		A	A		 EF655247	Pubiao	Daic	China
+LQ09	M*	172 189 209 223 234 290	+	+	+	-	-	+	-	2		G	A		 EF655248	Pubiao	Daic	China
+LQ10	Z	185 223 260 298 302	+	+	+	-	-	+	-	2		G	G		 EF655249	Pubiao	Daic	China
+LQ11	M7b1	93 129 192 223 297 311	+	+	+	-	-	+	+	2		G	A		 EF655250	Pubiao	Daic	China
+LQ12	G3	223 274 362	+	+	+	-	+	+	-	2			A		 EF655251	Pubiao	Daic	China
+LQ13	B5a	140 189 227 261 266A 325	+	-	+	-	-	+	-	1		G	A		 EF655252	Pubiao	Daic	China
+LQ14	M7b1	93 129 192 223 297 311	+	+	+	-	-	+	+	2		G	A		 EF655253	Pubiao	Daic	China
+LQ15	G*	223 362	+	+	+	-	+	+	-	2			A		 EF655254	Pubiao	Daic	China
+LQ16	F1b	129 189 297 300 304	-	-	+	-	-	-	-	2		A	A		 EF655255	Pubiao	Daic	China
+LQ17	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655256	Pubiao	Daic	China
+LQ18	M7b1	93 129 192 223 297 311	+	+	+	-	-	+	+	2		G	A		 EF655257	Pubiao	Daic	China
+LQ19	M*	223 256 311	+	+	+	-	-	+	-	2		G	A		 EF655258	Pubiao	Daic	China
+LQ20	Z	185 223 260 298 302	+	+	+	-	-	+	-	2		G	G		 EF655259	Pubiao	Daic	China
+LQ21	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655260	Pubiao	Daic	China
+LQ22	M*	223 271	+	+	+	-	-	+	-	2		G	A		 EF655261	Pubiao	Daic	China
+LQ23	M7b	129 223 297	+	+	+	-	-	+	+	2		G	A		 EF655262	Pubiao	Daic	China
+LQ24	M7b	129 189 223 235 297	+	+	+	-	-	+	+	2		G	A		 EF655263	Pubiao	Daic	China
+LQ25	M*	153 223 271	+	+	+	-	-	+	-	2		G	A		 EF655264	Pubiao	Daic	China
+MG01	B5a	140 183C 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655265	Mnong	Austro-Asiatic	Vietnam
+MG02	B5a	140 183C 189 266A 307	+	-	+	-	-	+	-	1		G	A		 EF655266	Mnong	Austro-Asiatic	Vietnam
+MG03	F1a	129 162 172 243 304 519	-	-	+	-	-	-	-	2		A	A		 EF655267	Mnong	Austro-Asiatic	Vietnam
+MK01	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655268	Mak	Daic	China
+MK03	M7b	 223 297          	+	+	+	-	-	+	+	2		G	A		 EF655269	Mak	Daic	China
+MK04	F3	 25G 242A 260 298 355 362      	-	-	+	-	-	+	-	2		A	A		 EF655270	Mak	Daic	China
+MK05	B4b1	 25G 136 189 217 309 354	-	-	+	-	-	+	-	1		G	A		 EF655271	Mak	Daic	China
+MK06	M7b	 129 189 223 248 297       	+	+	+	-	-	+	+	2		G	A		 EF655272	Mak	Daic	China
+MK07	M7b	 129 189 223 297       	+	+	+	-	-	+	+	2		G	A		 EF655273	Mak	Daic	China
+MK08	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF655274	Mak	Daic	China
+MK09	F1b	 172 304 465         	-	-	+	-	-	-	-	2		A	A		 EF655275	Mak	Daic	China
+MK10	G1	 93 157          	+	+	+	-	+	+	-	2			A		 EF655276	Mak	Daic	China
+MK11	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655277	Mak	Daic	China
+MK12	M7b	 129 189 209 223 248 297      	+	+	+	-	-	+	+	2		G	A		 EF655278	Mak	Daic	China
+MK13	M*	 111 129 223 235 300 362      	+	+	+	-	-	+	-	2		G	A		 EF655279	Mak	Daic	China
+MK14	B4a	 189 213 217 261 292    	-	-	+	-	-	+	-	1		G	A		 EF655280	Mak	Daic	China
+MK15	F1a	 129 162 172 304 311       	-	-	+	-	-	-	-	2		A	A		 EF655281	Mak	Daic	China
+MK16	B4a	 189 213 217 261 292    	-	-	+	-	-	+	-	1		G	A		 EF655282	Mak	Daic	China
+MK17	N*		-	-	+	-	-	+	-	2		G	A		 EF655283	Mak	Daic	China
+MK18	M7b	 129 189 223 248 297       	+	+	+	-	-	+	+	2		G	A		 EF655284	Mak	Daic	China
+MK19	B5a	 103 140 189 266A       	+	-	+	-	-	+	-	1		G	A		 EF655285	Mak	Daic	China
+MK20	F3	 260 298 355 362        	-	-	+	-	-	+	-	2		A	A		 EF655286	Mak	Daic	China
+MK21	D5a	 92 223 362         	-	-	-	-	-	+	-	2		G	A	G	 EF655287	Mak	Daic	China
+MK22	F1a	 108 129 162 172 214 304      	-	-	+	-	-	-	-	2		A	A		 EF655288	Mak	Daic	China
+MK23	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655289	Mak	Daic	China
+MK24	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655290	Mak	Daic	China
+MK25	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF655291	Mak	Daic	China
+MK26	B4	 129 140 166 189 217 274 335   	-	-	+	-	-	+	-	1		G	A		 EF655292	Mak	Daic	China
+MK27	R9b	93 192 304 309 390  	-	-	+	-	-	+	-	2		G	A		 EF655293	Mak	Daic	China
+MK28	M7b	 129 189 223 248 297       	+	+	+	-	-	+	+	2		G	A		 EF655294	Mak	Daic	China
+MK29	G2a	 189 223 257 362        	+	+	+	-	+	+	-	2			A		 EF655295	Mak	Daic	China
+MK30	F3	 93 111 192 249 263 298 355 362 390   	-	-	+	-	-	+	-	2		A	A		 EF655296	Mak	Daic	China
+MK53	M*	 172 223 291 311        	+	+	+	-	-	+	-	2		G	A		 EF655297	Mak	Daic	China
+MK54	F2a	 92A 291 304         	-	-	+	-	-	+	-	2		A	A		 EF655298	Mak	Daic	China
+MK55	D1	 213 223 325 355 362       	+	+	-	-	-	+	-	2			A	G	 EF655299	Mak	Daic	China
+MK58	R9b	93 192 304 309 390   	-	-	+	-	-	+	-	2		G	A		 EF655300	Mak	Daic	China
+ML01	B4c	 223 274 362         	-	-	+	-	-	+	-	1		G	A		 EF655301	Mulam	Daic	China
+ML02	N9a	 51 223 257A 261        	-	-	+	-	-	+	-	2	A	G	A		 EF655302	Mulam	Daic	China
+ML03	F1a	 129 172 293 304        	-	-	+	-	-	-	-	2		A	A		 EF655303	Mulam	Daic	China
+ML04	F3	 93 111 192 249 263 298 355 362 390   	-	-	+	-	-	+	-	2		A	A		 EF655304	Mulam	Daic	China
+ML05	D4a	 129 223 311         	+	+	-	-	-	+	-	2			A	A	 EF655305	Mulam	Daic	China
+ML06	F1c	 111 129 266 304        	-	-	+	-	-	-	-	2		A	A		 EF655306	Mulam	Daic	China
+ML07	B4c	 129 189 223 251G 273 274 311 313G 329C 361C 369 	-	-	+	-	-	+	-	1		G	A		 EF655307	Mulam	Daic	China
+ML08	B4c	 86 274 291 311        	-	-	+	-	-	+	-	1		G	A		 EF655308	Mulam	Daic	China
+ML09	B4c	 223 274 362         	-	-	+	-	-	+	-	1		G	A		 EF655309	Mulam	Daic	China
+ML10	F3	 111 192 249 298 355 362 390     	-	-	+	-	-	+	-	2		A	A		 EF655310	Mulam	Daic	China
+ML11	M7b	 129 189 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655311	Mulam	Daic	China
+ML12	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF655312	Mulam	Daic	China
+ML13	F3	 260 298 355 362        	-	-	+	-	-	+	-	2		A	A		 EF655313	Mulam	Daic	China
+ML14	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF655314	Mulam	Daic	China
+ML15	Z	 129 185 223 260 298       	+	+	+	-	-	+	-	2		G	G		 EF655315	Mulam	Daic	China
+ML16	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF655316	Mulam	Daic	China
+ML17	M7b	 223 297          	+	+	+	-	-	+	+	2		G	A		 EF655317	Mulam	Daic	China
+ML18	M*	311	+	+	+	-	-	+	-	2		G	A		 EF655318	Mulam	Daic	China
+ML19	M7b1	 129 192 223 297 362 400      	+	+	+	-	-	+	+	2		G	A		 EF655319	Mulam	Daic	China
+ML20	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF655320	Mulam	Daic	China
+ML21	F1a	 129 172 294 304 362       	-	-	+	-	-	-	-	2		A	A		 EF655321	Mulam	Daic	China
+ML22	B4a	 173 189 213 217 245 261 292 301 	-	-	+	-	-	+	-	1		G	A		 EF655322	Mulam	Daic	China
+ML23	A	 223 290 319         	-	-	+	+	-	+	-	2			A		 EF655323	Mulam	Daic	China
+ML24	M7b	 129 223 297         	+	+	+	-	-	+	+	2		G	A		 EF655324	Mulam	Daic	China
+ML25	F1a	 129 172 304 311 362       	-	-	+	-	-	-	-	2		A	A		 EF655325	Mulam	Daic	China
+ML26	A	 223 290 319 362        	-	-	+	+	-	+	-	2			A		 EF655326	Mulam	Daic	China
+ML27	R9b	 189 192 304 390        	-	-	+	-	-	+	-	2		G	A		 EF655327	Mulam	Daic	China
+ML28	M*	311	+	+	+	-	-	+	-	2		G	A		 EF655328	Mulam	Daic	China
+ML30	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655329	Mulam	Daic	China
+ML31	M7b	 129 189 223 297 298       	+	+	+	-	-	+	+	2		G	A		 EF655330	Mulam	Daic	China
+ML32	B4a	 189 217 261       	-	-	+	-	-	+	-	1		G	A		 EF655331	Mulam	Daic	China
+ML33	F3	 51 209 223 311 362       	-	-	+	-	-	+	-	2		A	A		 EF655332	Mulam	Daic	China
+ML34	M7c*	 75 223 293T 295        	+	+	+	-	-	+	+	2			A		 EF655333	Mulam	Daic	China
+ML35	B4a	 129 189 217 261     	-	-	+	-	-	+	-	1		G	A		 EF655334	Mulam	Daic	China
+ML36	D2	 129 223 263 362        	+	+	-	-	-	+	-	2			A	G	 EF655335	Mulam	Daic	China
+ML37	F2a	 92A 291 304         	-	-	+	-	-	+	-	2		A	A		 EF655336	Mulam	Daic	China
+ML38	R9b	 189 192 304 390 399       	-	-	+	-	-	+	-	2		G	A		 EF655337	Mulam	Daic	China
+ML39	F3	220C 227 298 362	-	-	+	-	-	+	-	2		A	A		 EF655338	Mulam	Daic	China
+ML40	B4a	 42 51 269 292 300 304      	-	-	+	-	-	+	-	1		G	A		 EF655339	Mulam	Daic	China
+MN01	F1a	 129 172 304         	-	-	+	-	-	-	-	2		A	A		 EF655340	Maonan	Daic	China
+MN02	N9a	 223 257A 261 311 390       	-	-	+	-	-	+	-	2	A	G	A		 EF655341	Maonan	Daic	China
+MN03	N9a	 223 257A 261 311 390       	-	-	+	-	-	+	-	2	A	G	A		 EF655342	Maonan	Daic	China
+MN04	B4b1	 136 189 217 309 354     	-	-	+	-	-	+	-	1		G	A		 EF655343	Maonan	Daic	China
+MN05	F1a	 129 172 304         	-	-	+	-	-	-	-	2		A	A		 EF655344	Maonan	Daic	China
+MN06	N9a	 223 257A 261 311 390       	-	-	+	-	-	+	-	2	A	G	A		 EF655345	Maonan	Daic	China
+MN07	N9a	 223 257A 261 311 390       	-	-	+	-	-	+	-	2	A	G	A		 EF655346	Maonan	Daic	China
+MN08	B4b1	 136 189 217 309 354     	-	-	+	-	-	+	-	1		G	A		 EF655347	Maonan	Daic	China
+MN09	M*	223 274 311 362 381       	+	+	+	-	-	+	-	2		G	A		 EF655348	Maonan	Daic	China
+MN10	F1a	 172 304          	-	-	+	-	-	-	-	2		A	A		 EF655349	Maonan	Daic	China
+MN11	M7b1	 129 192 223         	+	+	+	-	-	+	+	2		G	A		 EF655350	Maonan	Daic	China
+MN12	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655351	Maonan	Daic	China
+MN13	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655352	Maonan	Daic	China
+MN14	B4a	 93 189 217 261      	-	-	+	-	-	+	-	1		G	A		 EF655353	Maonan	Daic	China
+MN15	C	 223 298 327         	+	+	+	-	-	+	-	2			G		 EF655354	Maonan	Daic	China
+MN16	B4a	 95A 189 213 217 242 261 292 301 	-	-	+	-	-	+	-	1		G	A		 EF655355	Maonan	Daic	China
+MN17	B4a	 189 213 217 261 292    	-	-	+	-	-	+	-	1		G	A		 EF655356	Maonan	Daic	China
+MN18	B4b1	 136 189 217 309 354     	-	-	+	-	-	+	-	1		G	A		 EF655357	Maonan	Daic	China
+MN19	R11	 189 311 365        	-	-	+	-	-	+	-	2		G	A		 EF655358	Maonan	Daic	China
+MN20	G*	 223 362          	+	+	+	-	+	+	-	2			A		 EF655359	Maonan	Daic	China
+MN21	M7b2	 129 189 223 248 262 270 298     	+	+	+	-	-	+	+	2		G	A		 EF655360	Maonan	Daic	China
+MN22	M7b	 129 189 223 248 297       	+	+	+	-	-	+	+	2		G	A		 EF655361	Maonan	Daic	China
+MN23	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655362	Maonan	Daic	China
+MN24	B4a	 129 189 213 217 261 292   	-	-	+	-	-	+	-	1		G	A		 EF655363	Maonan	Daic	China
+MN25	B4a	 129 189 217 261 311     	-	-	+	-	-	+	-	1		G	A		 EF655364	Maonan	Daic	China
+MN26	B5a	 140 189 266A        	+	-	+	-	-	+	-	1		G	A		 EF655365	Maonan	Daic	China
+MN27	F3	220C 227 298 362	-	-	+	-	-	+	-	2		A	A		 EF655366	Maonan	Daic	China
+MN28	B4b1	 136 189 217        	-	-	+	-	-	+	-	1		G	A		 EF655367	Maonan	Daic	China
+MN29	M7b	 129 189 223 248 297       	+	+	+	-	-	+	+	2		G	A		 EF655368	Maonan	Daic	China
+MN30	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655369	Maonan	Daic	China
+MN31	B4b1	 136 189 217 309 354     	-	-	+	-	-	+	-	1		G	A		 EF655370	Maonan	Daic	China
+MN32	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655371	Maonan	Daic	China
+MO01	F1a	129 172 304	-	-	+	-	-	-	-	2		A	A		 EF655372	Mollao	Daic	China
+MO02	N*	189 311	-	-	+	-	-	+	-	2		G	A		 EF655373	Mollao	Daic	China
+MO03	B4a	189 213 217 242 261 292 301	-	-	+	-	-	+	-	1		G	A		 EF655374	Mollao	Daic	China
+MO04	M7b	129 189 214 223 297 357 399	+	+	+	-	-	+	+	2		G	A		 EF655375	Mollao	Daic	China
+MO05	F3	93 220C 227 298 362	-	-	+	-	-	+	-	2		A	A		 EF655376	Mollao	Daic	China
+MO06	F3	260 298 355 362	-	-	+	-	-	+	-	2		A	A		 EF655377	Mollao	Daic	China
+MO07	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655378	Mollao	Daic	China
+MO08	B4	140 189 217 274 335	-	-	+	-	-	+	-	1		G	A		 EF655379	Mollao	Daic	China
+MO09	M*	189 293C 325 362	+	+	+	-	-	+	-	2		G	A		 EF655380	Mollao	Daic	China
+MO10	D*	92 223 362	+	+	-	-	-	+	-	2			A	G	 EF655381	Mollao	Daic	China
+MO11	M*	189 311	+	+	+	-	-	+	-	2		G	A		 EF655382	Mollao	Daic	China
+MO12	D*	92 223 362	+	+	-	-	-	+	-	2			A	G	 EF655383	Mollao	Daic	China
+MO13	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655384	Mollao	Daic	China
+MO14	M7b	129 189 223 297 362	+	+	+	-	-	+	+	2		G	A		 EF655385	Mollao	Daic	China
+MO15	M7b	297 324 399	+	+	+	-	-	+	+	2		G	A		 EF655386	Mollao	Daic	China
+MO16	D*	129 223 362	+	+	-	-	-	+	-	2			A	G	 EF655387	Mollao	Daic	China
+MO17	B4a	129 189 217 261 311	-	-	+	-	-	+	-	1		G	A		 EF655388	Mollao	Daic	China
+MO18	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655389	Mollao	Daic	China
+MO19	F3	111 192 249 298 355 362 390	-	-	+	-	-	+	-	2		A	A		 EF655390	Mollao	Daic	China
+MO20	F3	220C 227 298 362	-	-	+	-	-	+	-	2		A	A		 EF655391	Mollao	Daic	China
+MO21	C	145 223 298 327	+	+	+	-	-	+	-	2			G		 EF655392	Mollao	Daic	China
+MO22	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655393	Mollao	Daic	China
+MO23	R*	93 114A 223 243 362	-	-	+	-	-	+	-	2		G	A		 EF655394	Mollao	Daic	China
+MO24	F3	111 192 249 298 355 362 390	-	-	+	-	-	+	-	2		A	A		 EF655395	Mollao	Daic	China
+MO25	M*	189 293C 325 362	+	+	+	-	-	+	-	2		G	A		 EF655396	Mollao	Daic	China
+MO26	M*	189 223 362	+	+	+	-	-	+	-	2		G	A		 EF655397	Mollao	Daic	China
+MO27	R*	223 311 362	-	-	+	-	-	+	-	2		G	A		 EF655398	Mollao	Daic	China
+MO29	F3	111 249 263 298 355 362 390	-	-	+	-	-	+	-	2		A	A		 EF655399	Mollao	Daic	China
+MO30	A	93 104 111 223 235 362	-	-	+	+	-	+	-	3			A		 EF655400	Mollao	Daic	China
+MQ184	B*	184	-	-	+	-	-	+	-	1			A		EF655401	DornQdayc	Daic	China
+MQ186	F1c	111 129 266 304	-	-	+	-	-	-	-	2		A	A		EF655402	DornQdayc	Daic	China
+MQ187	M*	189 274 362	+	+	+	-	-	+	-	2		G	A		EF655403	DornQdayc	Daic	China
+MQ188	M10	93 129 193 223 311 357	+	+	+	-	-	+	-	2		G	A		EF655404	DornQdayc	Daic	China
+MQ189	B4	189 217	-	-	+	-	-	+	-	1		G	A		EF655405	DornQdayc	Daic	China
+MQ190	B4	92 189 217	-	-	+	-	-	+	-	1		G	A		EF655406	DornQdayc	Daic	China
+MQ192	B*	189	-	-	+	-	-	+	-	1			A		EF655407	DornQdayc	Daic	China
+MQ193	G3	223 274 362	+	+	+	-	+	+	-	2			A		EF655408	DornQdayc	Daic	China
+MQ194	F1a	129 162 172 304	-	-	+	-	-	-	-	2		A	A		EF655409	DornQdayc	Daic	China
+MQ195	M7c1*	223 295	+	+	+	-	-	+	+	2			A		EF655410	DornQdayc	Daic	China
+MQ197	B5a	93 140 189 260 266G	+	-	+	-	-	+	-	1		G	A		EF655411	DornQdayc	Daic	China
+MQ198	B4b1	136 189 362 217	-	-	+	-	-	+	-	1		G	A		EF655412	DornQdayc	Daic	China
+MQ199	F1a	129 162 172 292 304	-	-	+	-	-	-	-	2		A	A		EF655413	DornQdayc	Daic	China
+MQ200	F1a	129 162 172 292 304	-	-	+	-	-	-	-	2		A	A		EF655414	DornQdayc	Daic	China
+MQ201	B4a	167 189 217 261	-	-	+	-	-	+	-	1		G	A		EF655415	DornQdayc	Daic	China
+MQ202	B4	189 217	-	-	+	-	-	+	-	1		G	A		EF655416	DornQdayc	Daic	China
+MQ203	A	223 290 319 362	-	-	+	+	-	+	-	2			A		EF655417	DornQdayc	Daic	China
+MT01	R9b	193 288 304 309 390 519	-	-	+	-	-	+	-	2		G	A		 EF655418	Man-Thanh	Daic	Vietnam
+MT05	M*	223 234 287 290 362	+	+	+	-	-	+	-	2			A		 EF655419	Man-Thanh	Daic	Vietnam
+PK01	B4a	129 182C 183C 189 217 261	-	-	+	-	-	+	-	1		G	A		 EF655420	Pacoh	Austro-Asiatic	Vietnam
+PK02	F1b	182C 183C 189 300 304	-	-	+	-	-	-	-	2		A	A		 EF655421	Pacoh	Austro-Asiatic	Vietnam
+PK03	F1a	129 172 304	-	-	+	-	-	-	-	2		A	A		 EF655422	Pacoh	Austro-Asiatic	Vietnam
+PO01	N9a	 189 223 257A 261 439G 456C 471 473C  	-	-	+	-	-	+	-	2	A	G	A		 EF655423	Pou	Daic	China
+PO02	B4a	 189 217 240 261      	-	-	+	-	-	+	-	1		G	A		 EF655424	Pou	Daic	China
+PO03	F1a	 172 274 304         	-	-	+	-	-	-	-	2		A	A		 EF655425	Pou	Daic	China
+PO04	F3	 260 298 355 362        	-	-	+	-	-	+	-	2		A	A		 EF655426	Pou	Daic	China
+PO05	F1a	 129 162 172 304 399       	-	-	+	-	-	-	-	2		A	A		 EF655427	Pou	Daic	China
+PO06	D4a	 117 129 193 223 234 290 353 362    	+	+	-	-	-	+	-	2			A	A	 EF655428	Pou	Daic	China
+PO07	F1a	 129 162 172 304 399       	-	-	+	-	-	-	-	2		A	A		 EF655429	Pou	Daic	China
+PO08	F3	 260 298 355 362        	-	-	+	-	-	+	-	2		A	A		 EF655430	Pou	Daic	China
+PO09	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655431	Pou	Daic	China
+PO10	G2a	 189 223 362       	+	+	+	-	+	+	-	2			A		 EF655432	Pou	Daic	China
+PO11	F1a	 86 129 172 189 304      	-	-	+	-	-	-	-	2		A	A		 EF655433	Pou	Daic	China
+PO12	F3	 93 111 192 249 263 298 355 362 390   	-	-	+	-	-	+	-	2		A	A		 EF655434	Pou	Daic	China
+PO13	M7b	 223 297 482C 487C        	+	+	+	-	-	+	+	2		G	A		 EF655435	Pou	Daic	China
+PO14	M7b	 223 297          	+	+	+	-	-	+	+	2		G	A		 EF655436	Pou	Daic	China
+PO15	M7b	 223 297          	+	+	+	-	-	+	+	2		G	A		 EF655437	Pou	Daic	China
+PO16	F1a	 129 172 189 304        	-	-	+	-	-	-	-	2		A	A		 EF655438	Pou	Daic	China
+PO17	M7b1	 82 129 189 192 223 297      	+	+	+	-	-	+	+	2		G	A		 EF655439	Pou	Daic	China
+PO18	M8a	 184 223 293 298 319       	+	+	+	-	-	+	-	2			G		 EF655440	Pou	Daic	China
+PO19	F3	 260 298 355 362        	-	-	+	-	-	+	-	2		A	A		 EF655441	Pou	Daic	China
+PO20	B5a	 140 189 207 266A       	+	-	+	-	-	+	-	1		G	A		 EF655442	Pou	Daic	China
+PO21	F3	 126 207 304 362        	-	-	+	-	-	+	-	2		A	A		 EF655443	Pou	Daic	China
+PO22	F1a	 89C 172 274 304        	-	-	+	-	-	-	-	2		A	A		 EF655444	Pou	Daic	China
+PO23	F1a	 86 129 172 189 304      	-	-	+	-	-	-	-	2		A	A		 EF655445	Pou	Daic	China
+PO24	A	 147A 223 290 319 362       	-	-	+	+	-	+	-	2			A		 EF655446	Pou	Daic	China
+PO25	D5a	 92 223 362         	-	-	-	-	-	+	-	2		G	A	G	 EF655447	Pou	Daic	China
+PO26	B5a	168 189 266A       	+	-	+	-	-	+	-	1		G	A		 EF655448	Pou	Daic	China
+PO27	F3	 93 260 298 355 362       	-	-	+	-	-	+	-	2		A	A		 EF655449	Pou	Daic	China
+PO28	B4a	 189 213 217 261 292    	-	-	+	-	-	+	-	1		G	A		 EF655450	Pou	Daic	China
+PO29	F1a	 129 162 172 304 399       	-	-	+	-	-	-	-	2		A	A		 EF655451	Pou	Daic	China
+PO30	G*	 93 223 362 374C        	+	+	+	-	+	+	-	2			A		 EF655452	Pou	Daic	China
+PO31	F3	 93 260 298 355 362       	-	-	+	-	-	+	-	2		A	A		 EF655453	Pou	Daic	China
+PO32	A	 93 290          	-	-	+	+	-	+	-	6			A		 EF655454	Pou	Daic	China
+PO33	D5a	 92 223 362         	-	-	-	-	-	+	-	2		G	A	G	 EF655455	Pou	Daic	China
+PO34	F3	 260 298 355 362        	-	-	+	-	-	+	-	2		A	A		 EF655456	Pou	Daic	China
+PY01	D*	92 223 362	+	+	-	-	-	+	-	2			A	G	 EF655457	Palyu	Austro-Asiatic	China
+PY02	C	223 266 298 327	+	+	+	-	-	+	-	2			G		 EF655458	Palyu	Austro-Asiatic	China
+PY03	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655459	Palyu	Austro-Asiatic	China
+PY04	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655460	Palyu	Austro-Asiatic	China
+PY05	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655461	Palyu	Austro-Asiatic	China
+PY06	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655462	Palyu	Austro-Asiatic	China
+PY07	N9a	223 257A 261	-	-	+	-	-	+	-	2	A	G	A		 EF655463	Palyu	Austro-Asiatic	China
+PY08	C	223 298 327	+	+	+	-	-	+	-	2			G		 EF655464	Palyu	Austro-Asiatic	China
+PY09	C	223 298 327	+	+	+	-	-	+	-	2			G		 EF655465	Palyu	Austro-Asiatic	China
+PY10	C	223 266 298 327	+	+	+	-	-	+	-	2			G		 EF655466	Palyu	Austro-Asiatic	China
+PY11	C	223 266 298 327	+	+	+	-	-	+	-	2			G		 EF655467	Palyu	Austro-Asiatic	China
+PY12	C	93 129 223 298 327	+	+	+	-	-	+	-	2			G		 EF655468	Palyu	Austro-Asiatic	China
+PY13	R9b	192 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655469	Palyu	Austro-Asiatic	China
+PY14	C	187 223 298 327	+	+	+	-	-	+	-	2			G		 EF655470	Palyu	Austro-Asiatic	China
+PY15	F1a	108 129 162 172 304	-	-	+	-	-	-	-	2		A	A		 EF655471	Palyu	Austro-Asiatic	China
+PY16	F1a	129 162 172 304 399	-	-	+	-	-	-	-	2		A	A		 EF655472	Palyu	Austro-Asiatic	China
+PY17	D*	92 223 362	+	+	-	-	-	+	-	2			A	G	 EF655473	Palyu	Austro-Asiatic	China
+PY18	M7b	297 324 399	+	+	+	-	-	+	+	2		G	A		 EF655474	Palyu	Austro-Asiatic	China
+PY19	N*	189 311 390 399	-	-	+	-	-	+	-	2		G	A		 EF655475	Palyu	Austro-Asiatic	China
+PY20	N*	189 311 390 399	-	-	+	-	-	+	-	2		G	A		 EF655476	Palyu	Austro-Asiatic	China
+PY21	M*	158 223 234 362	+	+	+	-	-	+	-	2		G	A		 EF655477	Palyu	Austro-Asiatic	China
+PY22	M*	158 223 234 362	+	+	+	-	-	+	-	2		G	A		 EF655478	Palyu	Austro-Asiatic	China
+PY23	A	129 223 260 290 319	-	-	+	+	-	+	-	2			A		 EF655479	Palyu	Austro-Asiatic	China
+PY24	N*	189 311 390 399	-	-	+	-	-	+	-	2		G	A		 EF655480	Palyu	Austro-Asiatic	China
+PY25	N*	189 311 390 399	-	-	+	-	-	+	-	2		G	A		 EF655481	Palyu	Austro-Asiatic	China
+PY26	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655482	Palyu	Austro-Asiatic	China
+PY27	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655483	Palyu	Austro-Asiatic	China
+PY28	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655484	Palyu	Austro-Asiatic	China
+PY29	M7b	297 324 399	+	+	+	-	-	+	+	2		G	A		 EF655485	Palyu	Austro-Asiatic	China
+PY30	M7b1	129 189 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655486	Palyu	Austro-Asiatic	China
+RG01	D*	129 223 290 311 362	+	+	-	-	-	+	-	2			A	G	 EF655487	Red-Gelao	Daic	China
+RG02	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF655488	Red-Gelao	Daic	China
+RG03	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655489	Red-Gelao	Daic	China
+RG04	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF655490	Red-Gelao	Daic	China
+RG05	G*	223 362	+	+	+	-	+	+	-	2			A		 EF655491	Red-Gelao	Daic	China
+RG06	M*	223 290 311 362	+	+	+	-	-	+	-	2		G	A		 EF655492	Red-Gelao	Daic	China
+RG07	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF655493	Red-Gelao	Daic	China
+RG08	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF655494	Red-Gelao	Daic	China
+RG09	R9b	192 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655495	Red-Gelao	Daic	China
+RG10	R9b	209 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655496	Red-Gelao	Daic	China
+RG11	G*	223 362	+	+	+	-	+	+	-	2			A		 EF655497	Red-Gelao	Daic	China
+RG12	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655498	Red-Gelao	Daic	China
+RG13	R9b	209 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655499	Red-Gelao	Daic	China
+RG14	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF655500	Red-Gelao	Daic	China
+RG15	F1c	111 129 304	-	-	+	-	-	-	-	2		A	A		 EF655501	Red-Gelao	Daic	China
+RG16	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF655502	Red-Gelao	Daic	China
+RG17	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655503	Red-Gelao	Daic	China
+RG18	M*	93 223 311 362 381 399	+	+	+	-	-	+	-	2		G	A		 EF655504	Red-Gelao	Daic	China
+RG19	F1c	111 129 266 304	-	-	+	-	-	-	-	2		A	A		 EF655505	Red-Gelao	Daic	China
+RG20	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655506	Red-Gelao	Daic	China
+RG21	M8a	184 189 223 298 319	+	+	+	-	-	+	-	2			G		 EF655507	Red-Gelao	Daic	China
+RG22	B4	140 189 217 218 274	-	-	+	-	-	+	-	1		G	A		 EF655508	Red-Gelao	Daic	China
+RG23	G*	223 362	+	+	+	-	+	+	-	2			A		 EF655509	Red-Gelao	Daic	China
+RG24	F3	93 249 298 355 362 390	-	-	+	-	-	+	-	2		A	A		 EF655510	Red-Gelao	Daic	China
+RG25	M*	93 223 311 362 381 399	+	+	+	-	-	+	-	2		G	A		 EF655511	Red-Gelao	Daic	China
+RG26	R9b	209 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655512	Red-Gelao	Daic	China
+RG27	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF655513	Red-Gelao	Daic	China
+RG28	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF655514	Red-Gelao	Daic	China
+RG29	F1c	111 129 304	-	-	+	-	-	-	-	2		A	A		 EF655515	Red-Gelao	Daic	China
+RG30	G*	189 223 362	+	+	+	-	+	+	-	2			A		 EF655516	Red-Gelao	Daic	China
+RG31	B*	189	-	-	+	-	-	+	-	1			A		 EF655517	Red-Gelao	Daic	China
+SD01	F1a	129 162 172 304 399 519	-	-	+	-	-	-	-	2		A	A		 EF655518	Sedang	Austro-Asiatic	Vietnam
+TI01	F1a	129 172 295 304 519	-	-	+	-	-	-	-	2		A	A		 EF655519	Trieng	Austro-Asiatic	Vietnam
+TI37	B5*	140 182C 183C 189	+	-	+	-	-	+	-	1			A		 EF655520	Trieng	Austro-Asiatic	Vietnam
+TN01	C	 223 298 311 327        	+	+	+	-	-	+	-	2			G		 EF655521	Then	Daic	China
+TN02	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655522	Then	Daic	China
+TN03	B4a	 129 189 217 261      	-	-	+	-	-	+	-	1		G	A		 EF655523	Then	Daic	China
+TN04	A	 223 290 311 319 362       	-	-	+	+	-	+	-	2			A		 EF655524	Then	Daic	China
+TN05	M7b	 129 189 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655525	Then	Daic	China
+TN06	C	 223 298 327         	+	+	+	-	-	+	-	2			G		 EF655526	Then	Daic	China
+TN07	D5a	 92 223 362         	-	-	-	-	-	+	-	2		G	A	G	 EF655527	Then	Daic	China
+TN08	B5a	 140 189 266A 357       	+	-	+	-	-	+	-	1		G	A		 EF655528	Then	Daic	China
+TN09	B4a	 129 189 217 261 354     	-	-	+	-	-	+	-	1		G	A		 EF655529	Then	Daic	China
+TN10	B4a	 129 189 217 261 471     	-	-	+	-	-	+	-	1		G	A		 EF655530	Then	Daic	China
+TN11	B5	 140 189        	+	-	+	-	-	+	-	1			A		 EF655531	Then	Daic	China
+TN12	M7b	 223 297          	+	+	+	-	-	+	+	2		G	A		 EF655532	Then	Daic	China
+TN13	M7b	 223 297          	+	+	+	-	-	+	+	2		G	A		 EF655533	Then	Daic	China
+TN14	M7b1	 129 189 192 223 297       	+	+	+	-	-	+	+	2		G	A		 EF655534	Then	Daic	China
+TN15	M8a	 184 223 260 298 319       	+	+	+	-	-	+	-	2			G		 EF655535	Then	Daic	China
+TN16	B4a	 129 189 217 261      	-	-	+	-	-	+	-	1		G	A		 EF655536	Then	Daic	China
+TN17	M7b	 129 223 297         	+	+	+	-	-	+	+	2		G	A		 EF655537	Then	Daic	China
+TN18	B4c	 223 256 299 311        	-	-	+	-	-	+	-	1		G	A		 EF655538	Then	Daic	China
+TN19	F1a	 108 111 129 162 172 304      	-	-	+	-	-	-	-	2		A	A		 EF655539	Then	Daic	China
+TN20	B4	 147 184A 189 217 235      	-	-	+	-	-	+	-	1		G	A		 EF655540	Then	Daic	China
+TN21	M7b1	 129 189 192 223 297 471      	+	+	+	-	-	+	+	2		G	A		 EF655541	Then	Daic	China
+TN22	M10	 129 223 269 311 344 357      	+	+	+	-	-	+	-	2		G	A		 EF655542	Then	Daic	China
+TN23	D*	 189 223 311 362        	+	+	-	-	-	+	-	2			A	G	 EF655543	Then	Daic	China
+TN24	B4	 147 184A 189 217 235      	-	-	+	-	-	+	-	1		G	A		 EF655544	Then	Daic	China
+TN25	A	 126 223 290 319 362       	-	-	+	+	-	+	-	2			A		 EF655545	Then	Daic	China
+TN26	M7b1	 129 189 192 223 297       	+	+	+	-	-	+	+	2		G	A		 EF655546	Then	Daic	China
+TN27	D1	 189 293C 325 362       	+	+	-	-	-	+	-	2			A	G	 EF655547	Then	Daic	China
+TN28	B4a	 93 169 189 217 261 357    	-	-	+	-	-	+	-	1		G	A		 EF655548	Then	Daic	China
+TN29	B4a	 129 189 217 261      	-	-	+	-	-	+	-	1		G	A		 EF655549	Then	Daic	China
+TN30	M7b1	 129 192 223 297        	+	+	+	-	-	+	+	2		G	A		 EF655550	Then	Daic	China
+TY01	F1a	93 129 162 172 292 304 519 527	-	-	+	-	-	-	-	2		A	A		 EF655551	Tay	Daic	Vietnam
+TY02	R	95 209 223 362	-	-	+	-	-	+	-	2		G	A		 EF655552	Tay	Daic	Vietnam
+TY03	R9b	145 192 243 304 309 390 519	-	-	+	-	-	+	-	2		G	A		 EF655553	Tay	Daic	Vietnam
+TY04	F1a	108 129 162 172 304 519	-	-	+	-	-	-	-	2		A	A		 EF655554	Tay	Daic	Vietnam
+WG01	C	223 298 327	+	+	+	-	-	+	-	2			G		 EF655555	White-Gelao	Daic	China
+WG02	B5a	140 189 262 266A	+	-	+	-	-	+	-	1		G	A		 EF655556	White-Gelao	Daic	China
+WG03	D*	92 223 362	+	+	-	-	-	+	-	2			A	G	 EF655557	White-Gelao	Daic	China
+WG04	B4a	189 217 261 320	-	-	+	-	-	+	-	1		G	A		 EF655558	White-Gelao	Daic	China
+WG05	C	223 298 327	+	+	+	-	-	+	-	2			G		 EF655559	White-Gelao	Daic	China
+WG06	M*	223 256 311	+	+	+	-	-	+	-	2		G	A		 EF655560	White-Gelao	Daic	China
+WG07	C	223 298 327	+	+	+	-	-	+	-	2			G		 EF655561	White-Gelao	Daic	China
+WG08	M*	93 223 234 266 290 311	+	+	+	-	-	+	-	2		G	A		 EF655562	White-Gelao	Daic	China
+WG09	C	223 298 327	+	+	+	-	-	+	-	2			G		 EF655563	White-Gelao	Daic	China
+WG10	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655564	White-Gelao	Daic	China
+WG11	F1c	111 129 266 304	-	-	+	-	-	-	-	2		A	A		 EF655565	White-Gelao	Daic	China
+WG12	R9b	209 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655566	White-Gelao	Daic	China
+WG13	M*	93 223 234 266 290 311	+	+	+	-	-	+	-	2		G	A		 EF655567	White-Gelao	Daic	China
+WG14	B4a	189 217 261 320	-	-	+	-	-	+	-	1		G	A		 EF655568	White-Gelao	Daic	China
+WS01	F1b	93 189 300 304	-	-	+	-	-	-	-	2		A	A		 EF655569	E	Daic	China
+WS02	M7b1	129 192 223 297	+	+	+	-	-	+	+	2		G	A		 EF655570	E	Daic	China
+WS03	B4a	189 213 217 260 261 292	-	-	+	-	-	+	-	1		G	A		 EF655571	E	Daic	China
+WS33  	B*	185  292 260 261  217 213	-	-	+	-	-	+	-	1		G	A		 EF655572	E	Daic	China
+WS04	F1a	108 129 162 172 304 	-	-	+	-	-	-	-	2		A	A		 EF655573	E	Daic	China
+WS05	N*		-	-	+	-	-	+	-	2		G	A		 EF655574	E	Daic	China
+WS06	N9a	223 257A 261 311 390	-	-	+	-	-	+	-	2	A	G	A		 EF655575	E	Daic	China
+WS07	B4a	93 153 189 213 217 261 292 362	-	-	+	-	-	+	-	1		G	A		 EF655576	E	Daic	China
+WS08	B4	92 189 217 274 289 301	-	-	+	-	-	+	-	1		G	A		 EF655577	E	Daic	China
+WS09	M7b	129 189 223 297	+	+	+	-	-	+	+	2		G	A		 EF655578	E	Daic	China
+WS10	F1b	93 189 300 304	-	-	+	-	-	-	-	2		A	A		 EF655579	E	Daic	China
+WS11	D*	92 223 362	+	+	-	-	-	+	-	2			A	G	 EF655580	E	Daic	China
+WS12	B4a	93 153 189 213 217 261 292 362	-	-	+	-	-	+	-	1		G	A		 EF655581	E	Daic	China
+WS13	F3	260 298 355 362	-	-	+	-	-	+	-	2		A	A		 EF655582	E	Daic	China
+WS14	M*	145 223 325 355 362	+	+	+	-	-	+	-	2		G	A		 EF655583	E	Daic	China
+WS15	B4b1	136 189 217 309 354	-	-	+	-	-	+	-	1		G	A		 EF655584	E	Daic	China
+WS16	B5a	140 189 223 228 266A 289	+	-	+	-	-	+	-	1		G	A		 EF655585	E	Daic	China
+WS17	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655586	E	Daic	China
+WS18	F3	92 111 192 249 263 298 355 362 390	-	-	+	-	-	+	-	2		A	A		 EF655587	E	Daic	China
+WS19	F1a	129 172 304	-	-	+	-	-	-	-	2		A	A		 EF655588	E	Daic	China
+WS20	R9b	304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655589	E	Daic	China
+WS21	Z	185 223 260 298	+	+	+	-	-	+	-	2		G	G		 EF655590	E	Daic	China
+WS22	F1b	189 269 292 300 304	-	-	+	-	-	-	-	2		A	A		 EF655591	E	Daic	China
+WS23	R9b	124 148 239 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655592	E	Daic	China
+WS24	D*	189 223 239 311 362	+	+	-	-	-	+	-	2			A	G	 EF655593	E	Daic	China
+WS25	F1a	108 129 162 172 304	-	-	+	-	-	-	-	2		A	A		 EF655594	E	Daic	China
+WS26	B4a	189 213 217 260 261 292	-	-	+	-	-	+	-	1		G	A		 EF655595	E	Daic	China
+WS27	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655596	E	Daic	China
+WS28	N9a	223 257A 261 311 390	-	-	+	-	-	+	-	2	A	G	A		 EF655597	E	Daic	China
+WS29	R9b	94 124 148 304 309 390	-	-	+	-	-	+	-	2		G	A		 EF655598	E	Daic	China
+WS30	B4a	93 189 217 261	-	-	+	-	-	+	-	1		G	A		 EF655599	E	Daic	China
+WS31	F1a	92 129 162 172 239 304	-	-	+	-	-	-	-	2		A	A		 EF655600	E	Daic	China
+WS63	N9a	111 129 223 257A 261	-	-	+	-	-	+	-	2	A	G	A		 EF655601	E	Daic	China
+YR01	M7b	129 189 223 248 297	+	+	+	-	-	+	+	2		G	A		 EF655602	Yerong	Daic	China
+YR02	B*	223 274 311 362	-	-	+	-	-	+	-	1			A		 EF655603	Yerong	Daic	China
+YR04	D*	129 223 362	+	+	-	-	-	+	-	2			A	G	 EF655604	Yerong	Daic	China
+YR05	F1a	172 304	-	-	+	-	-	-	-	2		A	A		 EF655605	Yerong	Daic	China
+YR06	N9a	223 257A 261 311	-	-	+	-	-	+	-	2	A	G	A		 EF655606	Yerong	Daic	China
+YR07	B4	129 189 217	-	-	+	-	-	+	-	1		G	A		 EF655607	Yerong	Daic	China
+YR08	B4a	176 189 213 217 261 292 362	-	-	+	-	-	+	-	1		G	A		 EF655608	Yerong	Daic	China
+YR09	M*	223 256 299 311	+	+	+	-	-	+	-	2		G	A		 EF655609	Yerong	Daic	China
+YR10	M*	223 271	+	+	+	-	-	+	-	2		G	A		 EF655610	Yerong	Daic	China
+YR11	B4a	129 189 217 261 354	-	-	+	-	-	+	-	1		G	A		 EF655611	Yerong	Daic	China
+YR12	B5a	140 189 266A	+	-	+	-	-	+	-	1		G	A		 EF655612	Yerong	Daic	China
+YR13	F1c	111 129 266 304	-	-	+	-	-	-	-	2		A	A		 EF655613	Yerong	Daic	China
+YR14	D*	129 223 362	+	+	-	-	-	+	-	2			A	G	 EF655614	Yerong	Daic	China
+YR15	R9c	129 157 304	-	-	+	-	-	+	-	2		G	A		 EF655615	Yerong	Daic	China
+YR16	M*	189 281 292	+	+	+	-	-	+	-	2		G	A		 EF655616	Yerong	Daic	China
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		

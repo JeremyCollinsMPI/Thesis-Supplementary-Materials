@@ -1,0 +1,12 @@
+Aka-Bea 1	C	C	CRU		CRU	CRU	CR	M2
+Aka-Bea 2	D	D	CU		CU	CU	C	M2
+Aka-Bea 5	C	C	C		C	C	C	M2
+Aka-Bea 8	C	C	R		CR	CR	CR	M2
+Aka-Bea 3	C	C	C		C		C	M2
+Aka-Bea 6	D	D	U		U		D	M2
+Aka-Bea 4	C	C	CR	CR				M4
+Aka-Bea 7	C	C	CU	CU				M4
+Aka-Bea 9	D	D	DR	R				M4
+Jarawa 1	D	D	N	C				M4
+Jarawa 2	C	C	C	C				M4
+Nicobar	C	C	CU	CU				M4

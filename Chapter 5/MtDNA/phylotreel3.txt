@@ -1,0 +1,404 @@
+ 
+L3	 A769G  A1018G  C16311T 	 	 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	L3a	 C151T  T152C!  C12816T  (A16254G)  A16316G 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	L3a1	 T721C  C10314T  T14461C  A14851G  G15553A  T16311C! 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3a1a	 T151C!  C4088T 	 	 	 	 	 	 	 	 	 	 	 	 	JN655813	EF184630	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3a1b	 T195C!  C198T  C2357T  C10184T  G12618A  G13708A  A14566G 	 	 	 	 	 	 	 	 	DQ341081	JN655774	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 G709A 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	JN655803		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3a2	 C573T  A7364G 	 	 	 	 	 	 	 	 	 	 	 	 	NA19438		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3a2a	 T151C!  C3996T  A13887G  T16223C 	 	 	 	 	 	 	 	 	 	JN655805	EU092941	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	L3b'f	 T15944d 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	L3b	 C3450T  G5773A  T6221C  C9449T  A10086G  A13105G!  C13914a  A15311G  A15824G  T16124C  C16278T!  T16362C 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3b1	 G10373A 	 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3b1a	 A11002G 	 	 	 	 	 	 	 	 	 	 	 	 	EU092726		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3b1a1	 A11800G 	 	 	 	 	 	 	 	 	 	 	 	JQ705783		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3b1a1a	 G15883A 	 	 	 	 	 	 	 	 	 	 	DQ304995	EU597490	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3b1a2	 G9300A 	 	 	 	 	 	 	 	 	 	 	 	JN655827	EU935449	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3b1a3	 A13933G  T16311C! 	 	 	 	 	 	 	 	 	 	 	FJ460529	DQ304990	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3b1a4	 A1710c  C9605T 	 	 	 	 	 	 	 	 	 	 	FJ460536	EU092759	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3b1a5	 T5063C 	 	 	 	 	 	 	 	 	 	 	 	JQ044986	EU092962	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3b1a5a	 G5417A 	 	 	 	 	 	 	 	 	 	 	NA18865	NA18907	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 T152C! 	 	 	 	 	 	 	 	 	 	 	 	JN655790		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3b1a6	 A3385G  C5255T  G8155A 	 	 	 	 	 	 	 	 	EU092958	JQ045058	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 C16124T! 	 	 	 	 	 	 	 	 	 	 	 	EU092768		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3b1a7	 A3441G  C5211T  A5581G  T15299C 	 	 	 	 	 	 	 	JX666328		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3b1a7a	 G9477A 	 	 	 	 	 	 	 	 	 	DQ341073	JQ044820	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3b1a8	 C2332T  G16145A 	 	 	 	 	 	 	 	 	 	NA19222	NA19175	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3b1a9	 A16051G 	 	 	 	 	 	 	 	 	 	 	JN655791	JQ045018	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3b1a9a	 A16318G 	 	 	 	 	 	 	 	 	 	EU092727	EU092825	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3b1a10	 G4659A  G7859A 	 	 	 	 	 	 	 	 	 	 	EU092897	NA19257	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3b1a11	 A13790G  T16311C! 	 	 	 	 	 	 	 	 	 	 	DQ304991	EU092694	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3b1b	 T152C!  A9079G  C15664T 	 	 	 	 	 	 	 	 	 	 	EU092814	DQ112738	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3b1b1	 T217C 	 	 	 	 	 	 	 	 	 	 	 	EU092682	EU200761	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3b2	 C3420T  T10640C  C16527T 	 	 	 	 	 	 	 	 	 	 	 	JQ045029		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3b2a	 T5250C  T16189C! 	 	 	 	 	 	 	 	 	 	 	 	EU092725	EU935440	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3b2b	 G9053A  A9067G  C15550T 	 	 	 	 	 	 	 	 	 	 	NA18916	DQ112746	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3b3	 G185A  A189G  A6527G  A9007G  C13934T  T14182C  G16048A 	 	 	 	 	 	 	 	 	JQ703986	NA18858	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	L3f	 T3396C  T4218C  T15514C  T16209C 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3f1	 C5601T  T9950C 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3f1a	 G3693A  C4350T  C5194T  A14148G  G15106A 	 	 	 	 	 	 	 	 	 	EU092891		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3f1a1	 T3197C  A12507G 	 	 	 	 	 	 	 	 	 	 	JN655809	DQ341078	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3f1b	 A189G  (A200G)  T1822C  C7819a  A8527G  C8932T  G11440A  A14769G  T16311C! 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 C16292T 	 	 	 	 	 	 	 	 	 	 	 	DQ341077	JN655783	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3f1b1	 C16295T 	 	 	 	 	 	 	 	 	 	 	JQ044831		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3f1b1a	 C8410T  C10070T  G16129A! 	 	 	 	 	 	 	 	DQ305036	JQ704670	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	L3f1b1a1	 A272G 	 	 	 	 	 	 	 	 	JX303774	EU092857	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3f1b2	 C7235a 	 	 	 	 	 	 	 	 	 	 	EU092805		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3f1b2a	 T16172C  C16266a 	 	 	 	 	 	 	 	 	EU935451	EU092953	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 C150T 	 	 	 	 	 	 	 	 	 	 	NA19172		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3f1b3	 T711C  A6806G  A7158G 	 	 	 	 	 	 	 	EU092883	NA19213	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3f1b4	 A3505G 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	L3f1b4a	 A13167G  T16292C! 	 	 	 	 	 	 	 	EU092865		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	L3f1b4a1	 A8799G 	 	 	 	 	 	 	 	EU092912	EU092791	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	L3f1b4b	 G15930A 	 	 	 	 	 	 	 	 	JQ045093	NA18520	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	L3f1b4c	 C16218T 	 	 	 	 	 	 	 	 	EU092704	JQ045084	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3f1b5	 A11582G 	 	 	 	 	 	 	 	 	 	 	GU455415	GU455422	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3f1b6	 reserved	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3f2	 (745.1T)  T16311C! 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3f2a	 T152C!  T15479C 	 	 	 	 	 	 	 	 	 	 	 	JN655784		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3f2a1	 G5821A  C9365T  G15314A 	 	 	 	 	 	 	 	 	 	JN655841		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3f2a1a	 A1842G  C16266T 	 	 	 	 	 	 	 	 	 	DQ341076	JN655819	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3f2b	 374.1A  T2442C  C5342T  G11016A  T12338C  G15466A  C15658T 	 	 	 	 	 	 	 	EU092770	EU092877	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3f3	 A189G  T318C  C959T  G4643A  A5181G  C6602T  A8158G  G8251A  G9932A  T10604C  T11770C  T15940C  C16176T  C16234T 	 	 	 	FJ625848	JN655831	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3f3a	 A16284G 	 	 	 	 	 	 	 	 	 	 	 	 	FJ625855	FJ625854	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3f3b	 C16188T 	 	 	 	 	 	 	 	 	 	 	 	 	FJ625850	DQ341075	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	L3c'd	 T152C!  A13105G! 	 	 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	L3c	 T195C!  498.1C  T678C  C3582T  G4491A  T5393C  A7394G  T9337C  T9682C  A12373G  T14221C  T14371C  G14560A  A14587G  T16311C!  T16362C 	 	 	 	EU092660	DQ341074	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	L3d	 G5147A  A7424G  T8618C  T13886C  C14284T  T16124C 	 	 	 	 	 	 	 	 	 	 	DQ112884		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3d1'2'3'4'5'6	 T921C 	 	 	 	 	 	 	 	 	 	 	 	 	 	EU092898		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3d1	 T6680C 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3d1a	 G4048A  C7648T  G11887A 	 	 	 	 	 	 	 	 	 	EU092796	NA19316	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3d1a1'2	 G16319A 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3d1a1	 G1503A 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	L3d1a1a	 C150T  A4203G  G5471A  T10640C  T10915C! 	 	 	 	 	 	JN655800	AF347014	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	 	L3d1a1a1	 A3579G 	 	 	 	 	 	 	 	KC533458	EU092932	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	 	L3d1a1b	 T146C!  T195C!  T5162C  G9452A  C10837T  G12406A  A13884G  G15106A 	 	 	EU092876	NA18867	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3d1a2	 A15061G 	 	 	 	 	 	 	 	 	 	HM771228	JQ702481	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3d1b	 G5046A 	 	 	 	 	 	 	 	 	 	 	 	JQ045112	EU092899	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3d1b1	 A6272G 	 	 	 	 	 	 	 	 	 	 	DQ341072		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3d1b1a	 A8014c 	 	 	 	 	 	 	 	 	 	JN214459	JN214478	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3d1b1b	 C151T  T195C!  A3957G 	 	 	 	 	 	 	 	EU200759	JN655823	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3d1b2	 C150T  T4553C  T15514C 	 	 	 	 	 	 	 	 	JQ702420	JQ705077	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3d1b3	 T146C!  T14634C  G15110A 	 	 	 	 	 	 	 	 	JQ045051		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3d1b3a	 C16256T 	 	 	 	 	 	 	 	 	 	JX303821	JQ044814	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3d1c	 A3203G  T9111C  A11239G  C12870T  A13542G  A16166G 	 	 	 	 	 	 	 	EU092762	JQ044862	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3d1c1	 A5372G  A9254G 	 	 	 	 	 	 	 	 	 	EU092830	JQ044824	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3d1d	 A7765G  A9151G  (C16256T)  (T16368C) 	 	 	 	 	 	 	 	 	AY195782	DQ112714	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3d2	 C14272T  T14584C  C16111T 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3d2a	 T15115C  (T16189C!) 	 	 	 	 	 	 	 	 	 	 	HM771170	DQ112713	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3d2b	 T199C 	 	 	 	 	 	 	 	 	 	 	 	JQ705019	JN655793	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3d3	 G1719A  T4688C  A15061G 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3d3a	 C3498g  G8251A  A10899G  A11404G  (T16189C)  (C16278T)  (T16304C)  (T16311C) 	 	 	 	 	 	DQ112716		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3d3a1	 A15208G 	 	 	 	 	 	 	 	 	 	 	JX303864		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3d3a1a	 T2416C 	 	 	 	 	 	 	 	 	 	EU092851	EU597526	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3d3a1b	 G16000A 	 	 	 	 	 	 	 	 	 	JX303836	JX303803	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3d3b	 T7389C 	 	 	 	 	 	 	 	 	 	 	 	JN655797	AF381998	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3d4	 A189G  T195C! 	 	 	 	 	 	 	 	 	 	 	 	NA20296	GU455420	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3d4a	 G1393A  A12280G 	 	 	 	 	 	 	 	 	 	 	JN655834	FJ460540	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3d5	 A15799G  T16362C 	 	 	 	 	 	 	 	 	 	 	 	JN214479		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3d5a	 A7158G  T12311C  G15930A 	 	 	 	 	 	 	 	 	 	NA19121	EU597500	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3d6	 T5492C  T8473C  C8658T  G9300A  C15223T 	 	 	 	 	 	 	 	 	 	JQ045091	NA18864	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	L3e'i'k'x	 C150T  A10819G 	 	 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	L3e	 T2352C  T14212C 	 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3e1	 A189G  A200G  T6221C  C6587T  A14152G  T15670C  T15942C  C16327T 	 	 	 	 	 	 	 	EU092827	EU092887	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3e1a	 C16185T 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e1a1	 G185A  C8650T  T16311C! 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e1a1a	 G3438A 	 	 	 	 	 	 	 	 	 	 	EU092749	KC533483	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e1a2	 T152C!  T195C!  G207A  T5774a  A9254G  C11024T  G14569A  T16209C 	 	 	 	 	 	 	JX303878	EU092867	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e1a3	 G10398A 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e1a3a	 C5255T  G7337A 	 	 	 	 	 	 	 	 	 	KC533488	HM771173	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e1a3b	 G10172A  T12438C  T16093C 	 	 	 	 	 	 	 	 	NA19114	EU092960	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3e1b	 A14926G  T16325d 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e1b1	 C16256T 	 	 	 	 	 	 	 	 	 	 	 	JN655794	EU092681	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e1b2	 G185A  G200A!  A8577G  G12192A 	 	 	 	 	 	 	 	 	KC533453	JX303759	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3e1c	 A3675G  G5460A  8289.1CCCCCTCTACCCCCTCTA  G8701A  G14323A 	 	 	 	 	 	 	 	EU092879	EU092740	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3e1d	 T152C!  C16176T 	 	 	 	 	 	 	 	 	 	 	 	HM771171		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e1d1	 C8703T  G9300A  T12738C 	 	 	 	 	 	 	 	 	 	EU092862	JX303847	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e1d1a	 A9327G 	 	 	 	 	 	 	 	 	 	 	EU092693	JX303886	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3e1e	 T10370C 	 	 	 	 	 	 	 	 	 	 	 	 	JQ045096	NA19391	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e1e1	 T14571a 	 	 	 	 	 	 	 	 	 	 	 	EU092915	AF346980	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e1e2	 G73A  G90A  G97A  106-111d  A4562G  T9098C 	 	 	 	 	 	 	 	HG01170	DQ282507	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3e1f	 8281-8289d 	 	 	 	 	 	 	 	 	 	 	 	JQ704728		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e1f1	 T16189C! 	 	 	 	 	 	 	 	 	 	 	 	HM771135		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e1f1a	 A4395G  C16260T 	 	 	 	 	 	 	 	 	 	HM771172	KC533470	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e1f2	 T195C!  G207A  G4219A  G7805A 	 	 	 	 	 	 	 	 	 	JN214448	JQ705521	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3e1g	 G1442A  A4844G  A5498G  T5618C  T8093C  T10490C  T11318C  T12215C  T16172C  A16399G 	 	 	 	 	 	JQ044847	JQ045070	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3e2	 T195C!  G14905A  C16320T 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3e2a	 T4823C  A13105G!  G14869A 	 	 	 	 	 	 	 	 	 	 	EU092769	NA19707	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e2a1	 C198T 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e2a1a	 A1737G  C3852T  C7196T  A15924G 	 	 	 	 	 	 	 	DQ305026	DQ305027	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e2a1b	 T6413C 	 	 	 	 	 	 	 	 	 	 	DQ305029	JQ702533	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3e2a1b1	 A16399G 	 	 	 	 	 	 	 	 	 	DQ305031	JQ044801	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3e2a1b2	 A15076G  T16311C! 	 	 	 	 	 	 	 	 	HM771176	HM771175	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3e2a1b3	 A14750G 	 	 	 	 	 	 	 	 	 	DQ305025	HG01456	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e2a2	 T10335C 	 	 	 	 	 	 	 	 	 	 	 	JQ045092	EU092926	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e2a3	 A5102G  T12414C 	 	 	 	 	 	 	 	 	 	 	EU092729		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3e2b	 T16172C  T16189C! 	 	 	 	 	 	 	 	 	 	 	 	DQ341071	HM771122	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e2b1	 A9377G 	 	 	 	 	 	 	 	 	 	 	 	DQ305022		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e2b1a	 T2483C 	 	 	 	 	 	 	 	 	 	 	JQ703138		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3e2b1a1	 T5580C 	 	 	 	 	 	 	 	 	 	DQ305021	AF347015	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3e2b1a2	 G3277A  G12406A 	 	 	 	 	 	 	 	 	JX303789	JQ701829	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e2b2	 G11377A 	 	 	 	 	 	 	 	 	 	 	 	EU092784	EU092777	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 T152C! 	 	 	 	 	 	 	 	 	 	 	 	DQ304998	DQ305003	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e2b3	 A6932G 	 	 	 	 	 	 	 	 	 	 	DQ305008	DQ305009	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e2b4	 T10861C 	 	 	 	 	 	 	 	 	 	 	DQ305000	JN381504	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e2b5	 G6261A 	 	 	 	 	 	 	 	 	 	 	NA19238	JQ044972	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e2b6	 T146C!  C7370T 	 	 	 	 	 	 	 	 	 	JN655795	NA19147	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e2b7	 G1927A 	 	 	 	 	 	 	 	 	 	 	 	AF346994	EU935465	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e2b8	 G9196A 	 	 	 	 	 	 	 	 	 	 	 	DQ305019	NA19150	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3e3'4'5	 G750A 	 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3e3'4	 G5262A 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e3	 T195C!  C2000T  T6524C  G9554A  T10667C  A10816G  A13101c  A16265t 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e3a	 573.XC  A10286G  A12397G 	 	 	 	 	 	 	 	 	DQ305012	JN655812	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e3b	 G4655A  A12248G  C13197T  A13651G  G15812A 	 	 	 	 	 	 	DQ305011	DQ305010	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3e3b1	 G6261A 	 	 	 	 	 	 	 	 	 	HM771231	DQ305013	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3e3b2	 C16527T 	 	 	 	 	 	 	 	 	 	AF346967	HM771232	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3e3b3	 C16465T 	 	 	 	 	 	 	 	 	 	JQ044850	JQ044964	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e4	 G3915A  A5584G  C11257T  C13749T  A16051G 	 	 	 	 	 	 	 	EU092752		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e4a	 C16264T 	 	 	 	 	 	 	 	 	 	 	EU092695	NA18909	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3e4a1	 C9490T 	 	 	 	 	 	 	 	 	 	JQ705320	JQ045125	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3e5	 T398C  G8392A  A16041G 	 	 	 	 	 	 	 	 	 	 	KF358485	JN655822	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e5a	 G13317A 	 	 	 	 	 	 	 	 	 	 	 	JN214452		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e5a1	 A2833G 	 	 	 	 	 	 	 	 	 	 	EU092821		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 	L3e5a1a	 C431a 	 	 	 	 	 	 	 	 	 	KF358475	JN655798	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e5b	 T5483C 	 	 	 	 	 	 	 	 	 	 	 	EU092959	KF358486	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	 T195C! 	 	 	 	 	 	 	 	 	 	 	 	JN655828		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3e5c	 A11548G 	 	 	 	 	 	 	 	 	 	 	KF358482	KF358474	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e5d	 A8869G  C12591T 	 	 	 	 	 	 	 	 	 	 	FJ460533	KF358487	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e5e	 C15367T  A16037G 	 	 	 	 	 	 	 	 	 	 	KF358472	DQ341070	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3e5f	 T12173C  G15734A  A16343G 	 	 	 	 	 	 	 	 	 	KF358481	KF358480	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	L3i	 T7645C 	 	 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3i1	 A10679G  T11260C  C13800a  G16153A 	 	 	 	 	 	 	 	 	 	 	NA19437		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3i1a	 A15758G  (G16129A!)  (T16223C) 	 	 	 	 	 	 	 	 	 	 	JN655780	DQ112958	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3i1b	 T2158C  C13687T 	 	 	 	 	 	 	 	 	 	 	 	DQ341069	EU092923	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3i2	 T152C!  A189G  A5441G  T8222C  A14818G  T15388C  C16260T  T16311C! 	 	 	 	 	 	 	 	DQ341068	JN655814	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	L3k	 T152C!  A235G  C494T  G3918A  T6620g  A8649G  T9467C  G13135A  C13992T  G15314A 	 	 	 	 	 	 	 	EU092822		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3k1	 A735G  T4313C  A9007t  G9329A  A13542G  A13862G  C16355T 	 	 	 	 	 	 	 	 	JQ705310	JN655789	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	L3x	 G3483A  5899.XC  A6401G  T8311C  A8817G  G13708A  C16169T 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3x1	 T204C  G15172A  C16278T! 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3x1a	 G5460A 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3x1a1	 A189G  T199C  5899.XCd! 	 	 	 	 	 	 	 	 	 	NA19446	EF556171	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3x1a2	 T13392C 	 	 	 	 	 	 	 	 	 	 	 	JN655779	JN655773	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 T16311C! 	 	 	 	 	 	 	 	 	 	 	 	 	JN655837		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3x1b	 C16256T 	 	 	 	 	 	 	 	 	 	 	 	JN655782	DQ341067	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3x2	 (A200G)  A249d  C494T  A9941G  C16193T  T16195C 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3x2a	 C3435T  T16223C 	 	 	 	 	 	 	 	 	 	 	 	EU092944	JN655776	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3x2a1	 368.1AGAA  T6392C  A7129G  T16086C 	 	 	 	 	 	 	 	 	DQ341066		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3x2a1a	 A9180G  A13681G  A13722G 	 	 	 	 	 	 	 	 	JN655829	EU092684	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3x2b	 T650C  A9254G  A15758G  G15928A  T16243C 	 	 	 	 	 	 	 	 	 	EU092818	HQ675033	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	L3h	 T7861C  G9575A 	 	 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	L3h1	 G1719A  A4388G  C5300T  T9509C  A11590G  T16311C! 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3h1a	 T5492C 	 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3h1a1	 T8047C  G8485A  C12432T  G13708A  T13926C  T14110C  C16192T  T16298C 	 	 	 	 	 	 	JN655830	NA19457	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3h1a2	 C8781a 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3h1a2a	 T146C!  T4688C  T4742C  C8943T  T12175C  T12519C  A14587G  C15646T  A16399G 	 	 	 	 	 	JN655840		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	 	L3h1a2a1	 G12236A  C14862T 	 	 	 	 	 	 	 	 	 	AF347000	JN655824	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3h1a2b	 C16270T 	 	 	 	 	 	 	 	 	 	 	 	JN655788	EU092753	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	L3h1b	 A189c  T195C!  A10044G  G14410A  C16256a 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3h1b1	 A16284G 	 	 	 	 	 	 	 	 	 	 	 	 	EU092828		 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	 	L3h1b1a	 T3777C  C16179T 	 	 	 	 	 	 	 	 	 	 	EU092903	JN214458	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	 	 	L3h1b2	 C151T  T152C!  T294C  A606G  T990C  A8842G  T9758C  C12882T  T13437C  G16129A!  T16362C 	 	 	 	 	 	EU092736	GU455418	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	 	L3h2	 C150T  T195C!  T318C  A3879G  G5460A  A5813G  T5930C  G8020A  T9098C  G9380A  T9965C  G11440A  A12469G  C13080T  C13755T  C16111T  C16184T  T16304C 	 	JN655801	DQ341080	 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	M	 T489C  C10400T  T14783C  G15043A 	 	 	 	 	 	 	 	 	 	 	 	 	 			 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 	N	 G8701A  C9540T  G10398A  C10873T  A15301G! 	 	 	 	 	 	 	 	 	 	 	 	 			 
