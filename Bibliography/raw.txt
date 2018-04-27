@@ -1,3 +1,23 @@
 goh 1998 singapore english
 trubetzkoy 1928 proposition 16
 thomason and kaufman 1998 language contact
+simon greenhill evolutionary dynamics of language systems
+michael dunn 2005 structural phylogenetics
+gray and jordan 2000 austronesian express train
+martine robbeets 2005 japanese korean turkic
+dryer and haspelmath 2013
+muysken et al 2014 linguistic areas
+birchall 2014 south america
+daumé III bayesian linguistic areas 2009
+bouckaert et al. 2014 beast 2
+bouckaert et al. 2012 indo-european
+morris swadesh
+jäger 2015 language families pnas
+felsenstein tree pruning
+huelsenbeck Bayesian inference of phylogeny and its impact on evolutionary biology
+Markov chain Monte Carlo in practice
+Trees within trees: phylogeny and historical associations
+world phonotactics database
+A historical appraisal of clicks: a linguistic and genetic population perspective
+tone in southeast asia
+
