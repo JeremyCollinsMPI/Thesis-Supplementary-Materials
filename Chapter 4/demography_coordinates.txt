@@ -1,9 +1,0 @@
-Menglian	Menglian, Puer, Yunnan, China	 99.58	 22.33
-Ximeng	Ximeng, Puer, Yunnan, China	 99.59	 22.65
-Menghai	Menghai, Xishuangbanna, Yunnan, China	 100.5	22.1
-Jinghong	 Jinghong, Xishuangbanna, Yunnan, China	100.78	22.02
-Dehong	  Dehong, Yunnan, China	98.59	24.44
-Baoshan	 Baoshan, Yunnan, China	99.16	 25.12
-Lincang	Lincang, Yunnan, China	100.09	 23.88
-Cangyuan	Cangyuan, Lincang, Yunnan, China	99.25	 23.16
-Puer	Puer, Yunnan, China	100.97	 22.82
