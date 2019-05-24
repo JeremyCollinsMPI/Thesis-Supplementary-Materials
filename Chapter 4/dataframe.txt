@@ -1,0 +1,14 @@
+Language	Longitude	Latitude	Eye of the day	Classifiers	SV/VS	Demonstratives	Number of eat verbs	Presence of bull imagery	Numerals	Containing Tai numerals under 10	Glottolog name
+Ximeng	99.59	 22.65	1	12	VS	1	4	1	Wa	0	Awa
+Bangxie	99.81	23.56	2	15	SV	2	1	0	Wa, > 3 Tai	1	U
+Wengwa	100	22.18	1	12	SVS	2	3	1	Wa	0	Awa
+Mangjing	99.94	 22.66	1	10	SV	-	3	0	Wa??	-	Awa
+Manghong	100.33	 22.32	1	-	SV	2	4	0	Wa??	-	Awa
+Wengding	99.17	 23.28	1	-	VS	2	3	1	Wa, > 10 Tai	0	Wa
+Menglian	99.58	 22.33	1	10	VS	2	4	0	Wa	0	Awa
+Gongxin	99.32	 22.30	1	-	VS	1	5	1	Wa	0	Awa
+Zhanglang	100.12	 21.92	2	24	SV	1	6	0	Wa, > 5 Tai; Wa	1	Blang
+Bada	100.06	 21.85	2	-	SV	2	5	0	Tai	1	Blang
+Bulangshan	100.42	 21.58	2	-	SV	-	3	0	Wa, > 30 Tai	0	Blang
+Xiaomenge	99.82	 23.57	1	22	SV	-	2	0	On old phone	-	Wa
+Kunge	100.92	22.18	2	-	SV	2	3	0	Tai	1	Hu
