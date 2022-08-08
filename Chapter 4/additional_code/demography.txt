@@ -1,0 +1,10 @@
+Name	Full name	Longitude	Latitude	Ratio of Tai speakers to Palaungic speakers	Reference	
+Menglian	Menglian, Puer, Yunnan, China	 99.58	 22.33	0.93	http://xxgk.yn.gov.cn/Z_M_011/Info_Detail.aspx?DocumentKeyID=2E22EBC4A6D84AB2B1461B5B34122A61
+Ximeng	Ximeng, Puer, Yunnan, China	 99.59	 22.65	0.06	https://zh.wikipedia.org/wiki/西盟佤族自治县
+Menghai	Menghai, Xishuangbanna, Yunnan, China	 100.5	22.1	3.59	https://baike.baidu.com/item/勐海县#5
+Jinghong	 Jinghong, Xishuangbanna, Yunnan, China	100.78	22.02	16.83	https://baike.baidu.com/item/景洪/400271?fromtitle=景洪市&fromid=2278149#4
+Dehong	  Dehong, Yunnan, China	98.59	24.44	22.37	https://zh.wikipedia.org/zh-hk/德宏傣族景颇族自治州#民族
+Baoshan	 Baoshan, Yunnan, China	99.16	 25.12	2.94	https://zh.wikipedia.org/zh-hk/保山市#民族
+Lincang	Lincang, Yunnan, China	100.09	 23.88	0.41	https://zh.wikipedia.org/zh-hant/临沧市#民族
+Cangyuan	Cangyuan, Lincang, Yunnan, China	99.25	 23.16	0.1	https://baike.baidu.com/item/沧源佤族自治县
+Puer	Puer, Yunnan, China	100.97	 22.82	0.87	https://zh.wikipedia.org/wiki/普洱市#民族

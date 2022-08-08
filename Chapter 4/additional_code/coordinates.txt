@@ -1,0 +1,15 @@
+Name	Full Name	Longitude	Latitude
+Kunge	Kunge, Xishuangbanna, Yunnan, China	 100.92	22.18
+Bulangshan	Bulangshanbulangzuxiang Peoples Government, Mengbu Line, Xishuangbanna, Yunnan, China	100.42	 21.58
+Zhanglang	Zhang Lang Cun, Xishuangbanna, Yunnan, China	100.12	 21.92
+Bada	Badaxiang, Xishuangbanna, Yunnan, China	100.06	 21.85
+Wengwa	Wengwa, Puer, Yunnan, China	100	22.18
+Manghong	Manghong, Puer, Yunnan, China	100.33	 22.32
+Mangjing	Mangjingshan, Puer, Yunnan, China	 99.94	 22.66
+Menglian	Menglian, Puer, Yunnan, China	 99.58	 22.33
+Gongxin	Gongxinxiang, Puer, Yunnan, China	 99.32	 22.30
+Ximeng	Ximeng, Puer, Yunnan, China	 99.59	 22.65
+Wengding	Wengding Va Ethnic Minority Minzucun, 028 Country Road, Lincang, Yunnan, China	 99.17	 23.28
+Bangxie	Bangxiecun, Lincang, Yunnan, China	  99.81	23.56
+Xiaomenge	Xiao Meng E, Lincang, Yunnan, China	 99.82	 23.57
+Desili	De Si Li, Baoshan, Yunnan, China	 99.62	 25.09
