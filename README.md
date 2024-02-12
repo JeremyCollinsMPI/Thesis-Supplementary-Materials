@@ -17,6 +17,9 @@ additional_code/main.py: script for producing a dendrogram using the UPGMA algor
 
 **Chapter 4**  
 analyses.txt: a transcription of data used in the chapter.  
+model.py: main script for running permutation tests  
+dataframe.txt: dataframe of features  
+demography.txt: demographic data for towns  
 additional_code/main.py: script for finding distance of languages to nearest towns   
 An additional repository https://github.com/JeremyCollinsMPI/palaungic-data-cldf contains files in cross-linguistic data format (CLDF 1.2, Forkel et al. 2018): see the README in this repository for an updated description of the files.  
 
