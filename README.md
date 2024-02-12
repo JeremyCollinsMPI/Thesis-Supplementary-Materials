@@ -1,4 +1,4 @@
-Data and code used in Jeremy Collins's PhD thesis _Linguistic Areas and Human Prehistory_ (2024). 
+Data and code used in Jeremy Collins's PhD thesis _Linguistic Areas and Prehistoric Migrations_ (2024). 
 The following section provides directories for individual chapters, and a summary of the files. 
 
 **Chapter 2**  
