@@ -46,4 +46,8 @@ migrations7.r: R script for predicting language similarity from number of migrat
 movement_model.py: python script for processing migration route data.   
 movements2000.csv: csv file of reconstructed migration routes.   
 squares.kml, squares10.kml, squares11.kml, squares2.kml, squares3.kml, squares4.kml, squares5.kml	, squares6.kml, squares7.kml, squares8.kml, squares9.kml: kml files showing tendencies in direction of migration in Eurasia and Africa.  
-additional_code/test.py: script for submitting fasta sequences to MtHap to find the haplogroups   
+additional_code/test.py: script for submitting fasta sequences to MtHap to find the haplogroups  
+
+**Note on the World Phonotactics Database**
+
+Data from the World Phonotactics Database (Donohue, M., R.Hetherington, J.McElvenny & V.Dawson.  2013. World phonotactics database.  Department of Linguistics, The Australian National University, accessed 15/6/2015.) was used in Chapters 2 and 3.  The database was originally online at http://phonotactics.anu.edu.au, but has since been taken offline.  The data is still publicly available on the site as archived by Web Archive (e.g. https://web.archive.org/web/20190608215845/http://phonotactics.anu.edu.au/features.php), and a csv of the same data used is provided in this repository.
