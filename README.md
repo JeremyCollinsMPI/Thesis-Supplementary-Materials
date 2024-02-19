@@ -16,7 +16,7 @@ template_beginning.xml: a xml script for use in Google Earth for generating maps
 additional_code/main.py: script for producing a dendrogram using the UPGMA algorithm    
 
 **Chapter 4**  
-analyses.txt: a transcription of data used in the chapter.  
+analyses.txt: a transcription of data used in the chapter, referencing recordings in https://zenodo.org/records/10677770 
 model.py: main script for running permutation tests  
 dataframe.txt: dataframe of features  
 demography.txt: demographic data for towns  
